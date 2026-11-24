@@ -1,0 +1,1345 @@
+item,country,name,p_no,p_abstain,p_yes,forecast
+PAL-1,AD,Andorra,0.0004,0.0114,0.9882,yes
+PAL-1,AE,United Arab Emirates,0.0,0.0001,0.9999,yes
+PAL-1,AF,Afghanistan,0.0,0.0,1.0,yes
+PAL-1,AG,Antigua & Barbuda,0.0,0.0014,0.9986,yes
+PAL-1,AL,Albania,0.0041,0.1557,0.8402,yes
+PAL-1,AM,Armenia,0.0,0.0012,0.9988,yes
+PAL-1,AO,Angola,0.0002,0.0351,0.9647,yes
+PAL-1,AR,Argentina,0.1178,0.0805,0.8017,yes
+PAL-1,AT,Austria,0.0019,0.0417,0.9564,yes
+PAL-1,AU,Australia,0.4032,0.4003,0.1965,no
+PAL-1,AZ,Azerbaijan,0.0,0.0,1.0,yes
+PAL-1,BA,Bosnia & Herzegovina,0.0005,0.0269,0.9726,yes
+PAL-1,BB,Barbados,0.0,0.0029,0.997,yes
+PAL-1,BD,Bangladesh,0.0,0.0,1.0,yes
+PAL-1,BE,Belgium,0.0005,0.0083,0.9912,yes
+PAL-1,BF,Burkina Faso,0.0,0.0014,0.9986,yes
+PAL-1,BG,Bulgaria,0.0009,0.0337,0.9655,yes
+PAL-1,BH,Bahrain,0.0,0.0,1.0,yes
+PAL-1,BI,Burundi,0.0009,0.104,0.8951,yes
+PAL-1,BJ,Benin,0.0,0.0013,0.9987,yes
+PAL-1,BN,Brunei,0.0,0.0,1.0,yes
+PAL-1,BO,Bolivia,0.0001,0.0031,0.9968,yes
+PAL-1,BR,Brazil,0.0077,0.1612,0.8312,yes
+PAL-1,BS,Bahamas,0.0001,0.0074,0.9925,yes
+PAL-1,BT,Bhutan,0.0,0.0004,0.9996,yes
+PAL-1,BW,Botswana,0.0001,0.0149,0.985,yes
+PAL-1,BY,Belarus,0.0,0.0009,0.999,yes
+PAL-1,BZ,Belize,0.0,0.0006,0.9994,yes
+PAL-1,CA,Canada,0.5277,0.2557,0.2166,no
+PAL-1,CD,Congo - Kinshasa,0.0015,0.1276,0.8709,yes
+PAL-1,CF,Central African Republic,0.0023,0.2007,0.7969,yes
+PAL-1,CG,Congo - Brazzaville,0.0,0.0047,0.9952,yes
+PAL-1,CH,Switzerland,0.0007,0.0205,0.9788,yes
+PAL-1,CI,Côte d’Ivoire,0.0025,0.1594,0.8381,yes
+PAL-1,CL,Chile,0.0,0.0,1.0,yes
+PAL-1,CM,Cameroon,0.0834,0.8443,0.0723,abstain
+PAL-1,CN,China,0.0,0.0,1.0,yes
+PAL-1,CO,Colombia,0.0003,0.0253,0.9744,yes
+PAL-1,CR,Costa Rica,0.0005,0.0561,0.9434,yes
+PAL-1,CU,Cuba,0.0,0.0,1.0,yes
+PAL-1,CV,Cape Verde,0.0,0.0011,0.9989,yes
+PAL-1,CY,Cyprus,0.0001,0.0034,0.9965,yes
+PAL-1,CZ,Czechia,0.022,0.2054,0.7726,yes
+PAL-1,DE,Germany,0.0017,0.0378,0.9604,yes
+PAL-1,DJ,Djibouti,0.0,0.0,1.0,yes
+PAL-1,DK,Denmark,0.0012,0.0251,0.9737,yes
+PAL-1,DM,Dominica,0.0002,0.0133,0.9865,yes
+PAL-1,DO,Dominican Republic,0.0005,0.0613,0.9382,yes
+PAL-1,DZ,Algeria,0.0,0.0,1.0,yes
+PAL-1,EC,Ecuador,0.0119,0.1307,0.8575,yes
+PAL-1,EE,Estonia,0.0011,0.0415,0.9574,yes
+PAL-1,EG,Egypt,0.0,0.0,1.0,yes
+PAL-1,ER,Eritrea,0.0001,0.0119,0.988,yes
+PAL-1,ES,Spain,0.0006,0.0144,0.985,yes
+PAL-1,ET,Ethiopia,0.0004,0.0528,0.9468,yes
+PAL-1,FI,Finland,0.0002,0.0049,0.9949,yes
+PAL-1,FJ,Fiji,0.0473,0.2991,0.6536,yes
+PAL-1,FM,Micronesia (Federated States of),0.9935,0.0062,0.0003,no
+PAL-1,FR,France,0.0027,0.0366,0.9607,yes
+PAL-1,GA,Gabon,0.0,0.0005,0.9995,yes
+PAL-1,GB,United Kingdom,0.0042,0.0397,0.9561,yes
+PAL-1,GD,Grenada,0.0161,0.1124,0.8716,yes
+PAL-1,GE,Georgia,0.0016,0.0914,0.907,yes
+PAL-1,GH,Ghana,0.0001,0.0106,0.9893,yes
+PAL-1,GM,Gambia,0.0,0.0002,0.9998,yes
+PAL-1,GN,Guinea,0.0,0.0006,0.9994,yes
+PAL-1,GQ,Equatorial Guinea,0.0006,0.0937,0.9057,yes
+PAL-1,GR,Greece,0.0005,0.0218,0.9777,yes
+PAL-1,GT,Guatemala,0.0219,0.2929,0.6851,yes
+PAL-1,GW,Guinea-Bissau,0.0,0.0003,0.9997,yes
+PAL-1,GY,Guyana,0.0,0.0003,0.9997,yes
+PAL-1,HN,Honduras,0.0257,0.4829,0.4914,yes
+PAL-1,HR,Croatia,0.0019,0.0808,0.9174,yes
+PAL-1,HT,Haiti,0.0037,0.274,0.7224,yes
+PAL-1,HU,Hungary,0.0583,0.2348,0.7069,yes
+PAL-1,ID,Indonesia,0.0,0.0,1.0,yes
+PAL-1,IE,Ireland,0.0004,0.0085,0.991,yes
+PAL-1,IL,Israel,1.0,0.0,0.0,no
+PAL-1,IN,India,0.0001,0.0151,0.9847,yes
+PAL-1,IQ,Iraq,0.0,0.0,1.0,yes
+PAL-1,IR,Iran,0.0,0.0,1.0,yes
+PAL-1,IS,Iceland,0.0002,0.0033,0.9965,yes
+PAL-1,IT,Italy,0.0012,0.0313,0.9675,yes
+PAL-1,JM,Jamaica,0.0,0.0019,0.9981,yes
+PAL-1,JO,Jordan,0.0,0.0,1.0,yes
+PAL-1,JP,Japan,0.0001,0.0013,0.9986,yes
+PAL-1,KE,Kenya,0.0002,0.0363,0.9635,yes
+PAL-1,KG,Kyrgyzstan,0.0,0.0,1.0,yes
+PAL-1,KH,Cambodia,0.0,0.0001,0.9999,yes
+PAL-1,KI,Kiribati,0.0634,0.4645,0.4721,yes
+PAL-1,KM,Comoros,0.0,0.0,1.0,yes
+PAL-1,KN,St. Kitts & Nevis,0.0,0.0016,0.9984,yes
+PAL-1,KP,North Korea,0.0001,0.0019,0.998,yes
+PAL-1,KR,South Korea,0.0,0.0026,0.9973,yes
+PAL-1,KW,Kuwait,0.0,0.0,1.0,yes
+PAL-1,KZ,Kazakhstan,0.0,0.0,1.0,yes
+PAL-1,LA,Laos,0.0,0.0039,0.9961,yes
+PAL-1,LB,Lebanon,0.0,0.0,1.0,yes
+PAL-1,LC,St. Lucia,0.0,0.0009,0.9991,yes
+PAL-1,LI,Liechtenstein,0.0006,0.015,0.9844,yes
+PAL-1,LK,Sri Lanka,0.0,0.0,1.0,yes
+PAL-1,LR,Liberia,0.0864,0.3026,0.611,yes
+PAL-1,LS,Lesotho,0.0001,0.0072,0.9928,yes
+PAL-1,LT,Lithuania,0.0021,0.0743,0.9237,yes
+PAL-1,LU,Luxembourg,0.0004,0.0088,0.9908,yes
+PAL-1,LV,Latvia,0.0009,0.0329,0.9662,yes
+PAL-1,LY,Libya,0.0,0.0,1.0,yes
+PAL-1,MA,Morocco,0.0,0.0,1.0,yes
+PAL-1,MC,Monaco,0.0021,0.0711,0.9268,yes
+PAL-1,MD,Moldova,0.0004,0.0194,0.9802,yes
+PAL-1,ME,Montenegro,0.0003,0.0112,0.9885,yes
+PAL-1,MG,Madagascar,0.0027,0.2571,0.7402,yes
+PAL-1,MH,Marshall Islands,0.8783,0.0771,0.0446,no
+PAL-1,MK,North Macedonia,0.0025,0.0979,0.8996,yes
+PAL-1,ML,Mali,0.0,0.002,0.998,yes
+PAL-1,MM,Myanmar (Burma),0.0001,0.0072,0.9927,yes
+PAL-1,MN,Mongolia,0.0,0.0005,0.9994,yes
+PAL-1,MR,Mauritania,0.0,0.0001,0.9999,yes
+PAL-1,MT,Malta,0.0001,0.0016,0.9983,yes
+PAL-1,MU,Mauritius,0.0,0.0002,0.9998,yes
+PAL-1,MV,Maldives,0.0,0.0,1.0,yes
+PAL-1,MW,Malawi,0.0026,0.3135,0.684,yes
+PAL-1,MX,Mexico,0.0004,0.027,0.9725,yes
+PAL-1,MY,Malaysia,0.0,0.0,1.0,yes
+PAL-1,MZ,Mozambique,0.0,0.0011,0.9989,yes
+PAL-1,NA,Namibia,0.0001,0.0117,0.9881,yes
+PAL-1,NE,Niger,0.0,0.0001,0.9999,yes
+PAL-1,NG,Nigeria,0.0,0.0039,0.9961,yes
+PAL-1,NI,Nicaragua,0.0003,0.0077,0.992,yes
+PAL-1,NL,Netherlands,0.0008,0.0172,0.982,yes
+PAL-1,NO,Norway,0.0002,0.0058,0.994,yes
+PAL-1,NP,Nepal,0.0,0.0009,0.9991,yes
+PAL-1,NR,Nauru,0.8126,0.18,0.0074,no
+PAL-1,NZ,New Zealand,0.0015,0.0297,0.9687,yes
+PAL-1,OM,Oman,0.0,0.0,1.0,yes
+PAL-1,PA,Panama,0.0012,0.0597,0.939,yes
+PAL-1,PE,Peru,0.0001,0.0143,0.9855,yes
+PAL-1,PG,Papua New Guinea,0.1981,0.5958,0.2062,abstain
+PAL-1,PH,Philippines,0.0,0.0005,0.9995,yes
+PAL-1,PK,Pakistan,0.0,0.0,1.0,yes
+PAL-1,PL,Poland,0.0009,0.0305,0.9686,yes
+PAL-1,PT,Portugal,0.0003,0.0064,0.9933,yes
+PAL-1,PW,Palau,0.8466,0.1366,0.0168,no
+PAL-1,PY,Paraguay,0.0652,0.3071,0.6277,yes
+PAL-1,QA,Qatar,0.0,0.0,1.0,yes
+PAL-1,RO,Romania,0.0017,0.0723,0.926,yes
+PAL-1,RU,Russia,0.0006,0.0137,0.9857,yes
+PAL-1,RW,Rwanda,0.0159,0.6362,0.3479,abstain
+PAL-1,SA,Saudi Arabia,0.0,0.0,1.0,yes
+PAL-1,SB,Solomon Islands,0.0053,0.0953,0.8994,yes
+PAL-1,SC,Seychelles,0.0,0.0022,0.9978,yes
+PAL-1,SD,Sudan,0.0,0.0005,0.9995,yes
+PAL-1,SE,Sweden,0.0008,0.0153,0.9839,yes
+PAL-1,SG,Singapore,0.0,0.0013,0.9987,yes
+PAL-1,SI,Slovenia,0.0008,0.0223,0.9769,yes
+PAL-1,SK,Slovakia,0.0012,0.0391,0.9596,yes
+PAL-1,SL,Sierra Leone,0.0,0.0002,0.9998,yes
+PAL-1,SM,San Marino,0.0008,0.023,0.9762,yes
+PAL-1,SN,Senegal,0.0,0.0,1.0,yes
+PAL-1,SO,Somalia,0.0,0.0,1.0,yes
+PAL-1,SR,Suriname,0.0,0.0016,0.9984,yes
+PAL-1,SS,South Sudan,0.0746,0.8391,0.0863,abstain
+PAL-1,ST,São Tomé & Príncipe,0.0001,0.0194,0.9805,yes
+PAL-1,SV,El Salvador,0.0002,0.0289,0.9708,yes
+PAL-1,SY,Syria,0.0,0.0,1.0,yes
+PAL-1,SZ,Eswatini,0.0069,0.1805,0.8126,yes
+PAL-1,TD,Chad,0.0,0.0005,0.9995,yes
+PAL-1,TG,Togo,0.0008,0.1208,0.8784,yes
+PAL-1,TH,Thailand,0.0,0.0011,0.9989,yes
+PAL-1,TJ,Tajikistan,0.0,0.0,1.0,yes
+PAL-1,TL,Timor-Leste,0.0,0.0095,0.9904,yes
+PAL-1,TM,Turkmenistan,0.0,0.0,1.0,yes
+PAL-1,TN,Tunisia,0.0,0.0,1.0,yes
+PAL-1,TO,Tonga,0.0815,0.6675,0.251,abstain
+PAL-1,TR,Turkey,0.0,0.0,1.0,yes
+PAL-1,TT,Trinidad & Tobago,0.0,0.0058,0.9942,yes
+PAL-1,TV,Tuvalu,0.0223,0.2169,0.7607,yes
+PAL-1,TZ,Tanzania,0.0001,0.0107,0.9892,yes
+PAL-1,UA,Ukraine,0.0017,0.0726,0.9257,yes
+PAL-1,UG,Uganda,0.0018,0.1132,0.885,yes
+PAL-1,US,United States,0.9982,0.0014,0.0004,no
+PAL-1,UY,Uruguay,0.0014,0.087,0.9116,yes
+PAL-1,UZ,Uzbekistan,0.0,0.0001,0.9999,yes
+PAL-1,VC,St. Vincent & Grenadines,0.0002,0.0122,0.9875,yes
+PAL-1,VN,Vietnam,0.0,0.0,1.0,yes
+PAL-1,VU,Vanuatu,0.0488,0.5722,0.379,abstain
+PAL-1,WS,Samoa,0.0083,0.1942,0.7975,yes
+PAL-1,YE,Yemen,0.0,0.0,1.0,yes
+PAL-1,YU,Yugoslavia,0.0006,0.0364,0.963,yes
+PAL-1,ZA,South Africa,0.0,0.0,1.0,yes
+PAL-1,ZM,Zambia,0.0011,0.0786,0.9203,yes
+PAL-1,ZW,Zimbabwe,0.0001,0.0032,0.9967,yes
+GOLAN,AD,Andorra,0.0977,0.543,0.3593,abstain
+GOLAN,AE,United Arab Emirates,0.0,0.0041,0.9959,yes
+GOLAN,AF,Afghanistan,0.0,0.0,1.0,yes
+GOLAN,AG,Antigua & Barbuda,0.0009,0.047,0.9521,yes
+GOLAN,AL,Albania,0.1366,0.6005,0.263,abstain
+GOLAN,AM,Armenia,0.0021,0.0837,0.9142,yes
+GOLAN,AO,Angola,0.0011,0.1566,0.8423,yes
+GOLAN,AR,Argentina,0.0364,0.2717,0.6918,yes
+GOLAN,AT,Austria,0.2094,0.5008,0.2898,abstain
+GOLAN,AU,Australia,0.5664,0.3113,0.1223,no
+GOLAN,AZ,Azerbaijan,0.0,0.0018,0.9981,yes
+GOLAN,BA,Bosnia & Herzegovina,0.0307,0.4972,0.4721,abstain
+GOLAN,BB,Barbados,0.0012,0.0645,0.9344,yes
+GOLAN,BD,Bangladesh,0.0,0.0006,0.9994,yes
+GOLAN,BE,Belgium,0.0896,0.495,0.4153,abstain
+GOLAN,BF,Burkina Faso,0.0004,0.0948,0.9048,yes
+GOLAN,BG,Bulgaria,0.095,0.5723,0.3326,abstain
+GOLAN,BH,Bahrain,0.0,0.0027,0.9973,yes
+GOLAN,BI,Burundi,0.0015,0.144,0.8545,yes
+GOLAN,BJ,Benin,0.0007,0.1756,0.8237,yes
+GOLAN,BN,Brunei,0.0,0.0003,0.9997,yes
+GOLAN,BO,Bolivia,0.0009,0.0223,0.9768,yes
+GOLAN,BR,Brazil,0.0219,0.4008,0.5773,yes
+GOLAN,BS,Bahamas,0.0014,0.0985,0.9001,yes
+GOLAN,BT,Bhutan,0.0001,0.0136,0.9863,yes
+GOLAN,BW,Botswana,0.0012,0.1531,0.8457,yes
+GOLAN,BY,Belarus,0.0018,0.0487,0.9495,yes
+GOLAN,BZ,Belize,0.0004,0.0242,0.9753,yes
+GOLAN,CA,Canada,0.7035,0.2127,0.0838,no
+GOLAN,CD,Congo - Kinshasa,0.0273,0.6738,0.2989,abstain
+GOLAN,CF,Central African Republic,0.0103,0.592,0.3977,abstain
+GOLAN,CG,Congo - Brazzaville,0.0014,0.209,0.7896,yes
+GOLAN,CH,Switzerland,0.0919,0.5408,0.3673,abstain
+GOLAN,CI,Côte d’Ivoire,0.0344,0.7162,0.2494,abstain
+GOLAN,CL,Chile,0.0002,0.0222,0.9776,yes
+GOLAN,CM,Cameroon,0.0369,0.8426,0.1205,abstain
+GOLAN,CN,China,0.0,0.0007,0.9993,yes
+GOLAN,CO,Colombia,0.004,0.2232,0.7728,yes
+GOLAN,CR,Costa Rica,0.0045,0.3219,0.6736,yes
+GOLAN,CU,Cuba,0.0,0.0007,0.9993,yes
+GOLAN,CV,Cape Verde,0.0007,0.1628,0.8365,yes
+GOLAN,CY,Cyprus,0.0232,0.4727,0.5041,yes
+GOLAN,CZ,Czechia,0.23,0.5009,0.2691,abstain
+GOLAN,DE,Germany,0.1738,0.4982,0.3281,abstain
+GOLAN,DJ,Djibouti,0.0,0.0019,0.9981,yes
+GOLAN,DK,Denmark,0.093,0.5051,0.402,abstain
+GOLAN,DM,Dominica,0.0032,0.117,0.8798,yes
+GOLAN,DO,Dominican Republic,0.0056,0.35,0.6444,yes
+GOLAN,DZ,Algeria,0.0,0.0012,0.9988,yes
+GOLAN,EC,Ecuador,0.0194,0.2209,0.7596,yes
+GOLAN,EE,Estonia,0.083,0.5525,0.3645,abstain
+GOLAN,EG,Egypt,0.0,0.0005,0.9995,yes
+GOLAN,ER,Eritrea,0.0004,0.0495,0.9501,yes
+GOLAN,ES,Spain,0.0753,0.5113,0.4134,abstain
+GOLAN,ET,Ethiopia,0.0013,0.1636,0.8351,yes
+GOLAN,FI,Finland,0.0639,0.4857,0.4504,abstain
+GOLAN,FJ,Fiji,0.0198,0.6011,0.3791,abstain
+GOLAN,FM,Micronesia (Federated States of),0.7786,0.2042,0.0172,no
+GOLAN,FR,France,0.1497,0.4389,0.4114,abstain
+GOLAN,GA,Gabon,0.0003,0.0894,0.9102,yes
+GOLAN,GB,United Kingdom,0.2209,0.3979,0.3811,abstain
+GOLAN,GD,Grenada,0.003,0.1765,0.8205,yes
+GOLAN,GE,Georgia,0.074,0.6524,0.2736,abstain
+GOLAN,GH,Ghana,0.0029,0.3284,0.6688,yes
+GOLAN,GM,Gambia,0.0005,0.0665,0.933,yes
+GOLAN,GN,Guinea,0.0004,0.0583,0.9413,yes
+GOLAN,GQ,Equatorial Guinea,0.0035,0.42,0.5765,yes
+GOLAN,GR,Greece,0.0718,0.5836,0.3445,abstain
+GOLAN,GT,Guatemala,0.0781,0.6966,0.2253,abstain
+GOLAN,GW,Guinea-Bissau,0.0001,0.0355,0.9643,yes
+GOLAN,GY,Guyana,0.0002,0.0142,0.9856,yes
+GOLAN,HN,Honduras,0.023,0.6279,0.3492,abstain
+GOLAN,HR,Croatia,0.0948,0.5921,0.3131,abstain
+GOLAN,HT,Haiti,0.0179,0.6487,0.3334,abstain
+GOLAN,HU,Hungary,0.2508,0.5187,0.2305,abstain
+GOLAN,ID,Indonesia,0.0,0.0001,0.9999,yes
+GOLAN,IE,Ireland,0.1082,0.5008,0.391,abstain
+GOLAN,IL,Israel,0.9991,0.0009,0.0,no
+GOLAN,IN,India,0.0007,0.0599,0.9394,yes
+GOLAN,IQ,Iraq,0.0,0.0009,0.9991,yes
+GOLAN,IR,Iran,0.0,0.0002,0.9998,yes
+GOLAN,IS,Iceland,0.0372,0.4726,0.4902,yes
+GOLAN,IT,Italy,0.1006,0.5358,0.3635,abstain
+GOLAN,JM,Jamaica,0.0008,0.0712,0.9279,yes
+GOLAN,JO,Jordan,0.0,0.0014,0.9986,yes
+GOLAN,JP,Japan,0.0188,0.3065,0.6748,yes
+GOLAN,KE,Kenya,0.0026,0.3157,0.6817,yes
+GOLAN,KG,Kyrgyzstan,0.0001,0.0142,0.9857,yes
+GOLAN,KH,Cambodia,0.0001,0.0198,0.9801,yes
+GOLAN,KI,Kiribati,0.2082,0.667,0.1248,abstain
+GOLAN,KM,Comoros,0.0,0.0033,0.9967,yes
+GOLAN,KN,St. Kitts & Nevis,0.0008,0.0466,0.9527,yes
+GOLAN,KP,North Korea,0.0,0.0009,0.999,yes
+GOLAN,KR,South Korea,0.011,0.3918,0.5972,yes
+GOLAN,KW,Kuwait,0.0,0.0011,0.9988,yes
+GOLAN,KZ,Kazakhstan,0.0004,0.0254,0.9742,yes
+GOLAN,LA,Laos,0.0001,0.0254,0.9745,yes
+GOLAN,LB,Lebanon,0.0,0.0001,0.9999,yes
+GOLAN,LC,St. Lucia,0.0009,0.0503,0.9489,yes
+GOLAN,LI,Liechtenstein,0.1342,0.5297,0.3361,abstain
+GOLAN,LK,Sri Lanka,0.0,0.004,0.996,yes
+GOLAN,LR,Liberia,0.212,0.619,0.1691,abstain
+GOLAN,LS,Lesotho,0.0018,0.1717,0.8265,yes
+GOLAN,LT,Lithuania,0.0996,0.5629,0.3375,abstain
+GOLAN,LU,Luxembourg,0.0745,0.5071,0.4184,abstain
+GOLAN,LV,Latvia,0.0725,0.5518,0.3757,abstain
+GOLAN,LY,Libya,0.0,0.0022,0.9978,yes
+GOLAN,MA,Morocco,0.0,0.0011,0.9989,yes
+GOLAN,MC,Monaco,0.1154,0.5493,0.3352,abstain
+GOLAN,MD,Moldova,0.0769,0.6024,0.3207,abstain
+GOLAN,ME,Montenegro,0.0572,0.544,0.3988,abstain
+GOLAN,MG,Madagascar,0.0081,0.6165,0.3754,abstain
+GOLAN,MH,Marshall Islands,0.5595,0.3264,0.1141,no
+GOLAN,MK,North Macedonia,0.0924,0.6215,0.2861,abstain
+GOLAN,ML,Mali,0.0005,0.047,0.9525,yes
+GOLAN,MM,Myanmar (Burma),0.0004,0.033,0.9666,yes
+GOLAN,MN,Mongolia,0.0004,0.0473,0.9523,yes
+GOLAN,MR,Mauritania,0.0,0.0054,0.9946,yes
+GOLAN,MT,Malta,0.0343,0.4665,0.4992,yes
+GOLAN,MU,Mauritius,0.0001,0.0043,0.9956,yes
+GOLAN,MV,Maldives,0.0,0.0005,0.9995,yes
+GOLAN,MW,Malawi,0.0179,0.7017,0.2805,abstain
+GOLAN,MX,Mexico,0.0109,0.402,0.5871,yes
+GOLAN,MY,Malaysia,0.0,0.0015,0.9985,yes
+GOLAN,MZ,Mozambique,0.0002,0.0436,0.9563,yes
+GOLAN,NA,Namibia,0.001,0.0914,0.9076,yes
+GOLAN,NE,Niger,0.0002,0.0226,0.9772,yes
+GOLAN,NG,Nigeria,0.0008,0.1197,0.8795,yes
+GOLAN,NI,Nicaragua,0.0014,0.0228,0.9758,yes
+GOLAN,NL,Netherlands,0.1191,0.5055,0.3755,abstain
+GOLAN,NO,Norway,0.0415,0.4918,0.4667,abstain
+GOLAN,NP,Nepal,0.0001,0.0548,0.945,yes
+GOLAN,NR,Nauru,0.3961,0.5716,0.0324,abstain
+GOLAN,NZ,New Zealand,0.1392,0.4442,0.4166,abstain
+GOLAN,OM,Oman,0.0,0.0002,0.9998,yes
+GOLAN,PA,Panama,0.0369,0.5806,0.3825,abstain
+GOLAN,PE,Peru,0.0027,0.1975,0.7997,yes
+GOLAN,PG,Papua New Guinea,0.1987,0.6618,0.1395,abstain
+GOLAN,PH,Philippines,0.0003,0.0924,0.9072,yes
+GOLAN,PK,Pakistan,0.0,0.0003,0.9997,yes
+GOLAN,PL,Poland,0.0853,0.5387,0.376,abstain
+GOLAN,PT,Portugal,0.0514,0.4997,0.4489,abstain
+GOLAN,PW,Palau,0.697,0.2695,0.0334,no
+GOLAN,PY,Paraguay,0.0576,0.5986,0.3438,abstain
+GOLAN,QA,Qatar,0.0,0.0006,0.9994,yes
+GOLAN,RO,Romania,0.1058,0.5776,0.3166,abstain
+GOLAN,RU,Russia,0.0031,0.0578,0.9391,yes
+GOLAN,RW,Rwanda,0.0218,0.7829,0.1952,abstain
+GOLAN,SA,Saudi Arabia,0.0,0.0009,0.9991,yes
+GOLAN,SB,Solomon Islands,0.0502,0.3706,0.5792,yes
+GOLAN,SC,Seychelles,0.0001,0.0418,0.9581,yes
+GOLAN,SD,Sudan,0.0,0.0027,0.9973,yes
+GOLAN,SE,Sweden,0.0784,0.4691,0.4525,abstain
+GOLAN,SG,Singapore,0.0004,0.0505,0.949,yes
+GOLAN,SI,Slovenia,0.0999,0.5433,0.3568,abstain
+GOLAN,SK,Slovakia,0.1081,0.5517,0.3401,abstain
+GOLAN,SL,Sierra Leone,0.0004,0.061,0.9386,yes
+GOLAN,SM,San Marino,0.1331,0.5481,0.3188,abstain
+GOLAN,SN,Senegal,0.0001,0.0177,0.9822,yes
+GOLAN,SO,Somalia,0.0001,0.0022,0.9978,yes
+GOLAN,SR,Suriname,0.0002,0.0312,0.9686,yes
+GOLAN,SS,South Sudan,0.0302,0.8157,0.1541,abstain
+GOLAN,ST,São Tomé & Príncipe,0.0014,0.2678,0.7308,yes
+GOLAN,SV,El Salvador,0.0007,0.0552,0.9441,yes
+GOLAN,SY,Syria,0.0,0.0001,0.9999,yes
+GOLAN,SZ,Eswatini,0.0161,0.483,0.5009,yes
+GOLAN,TD,Chad,0.0002,0.0534,0.9464,yes
+GOLAN,TG,Togo,0.0165,0.6963,0.2872,abstain
+GOLAN,TH,Thailand,0.0004,0.0913,0.9083,yes
+GOLAN,TJ,Tajikistan,0.0002,0.013,0.9869,yes
+GOLAN,TL,Timor-Leste,0.0011,0.1583,0.8406,yes
+GOLAN,TM,Turkmenistan,0.0001,0.0034,0.9965,yes
+GOLAN,TN,Tunisia,0.0,0.0021,0.9979,yes
+GOLAN,TO,Tonga,0.2003,0.7376,0.0622,abstain
+GOLAN,TR,Turkey,0.0002,0.0056,0.9941,yes
+GOLAN,TT,Trinidad & Tobago,0.0007,0.0568,0.9425,yes
+GOLAN,TV,Tuvalu,0.104,0.5731,0.3229,abstain
+GOLAN,TZ,Tanzania,0.0006,0.0916,0.9078,yes
+GOLAN,UA,Ukraine,0.0744,0.5898,0.3359,abstain
+GOLAN,UG,Uganda,0.0016,0.186,0.8125,yes
+GOLAN,US,United States,0.9279,0.0597,0.0124,no
+GOLAN,UY,Uruguay,0.0217,0.5593,0.419,abstain
+GOLAN,UZ,Uzbekistan,0.0009,0.0211,0.978,yes
+GOLAN,VC,St. Vincent & Grenadines,0.0015,0.0392,0.9593,yes
+GOLAN,VN,Vietnam,0.0,0.0032,0.9968,yes
+GOLAN,VU,Vanuatu,0.0642,0.8041,0.1317,abstain
+GOLAN,WS,Samoa,0.0519,0.5422,0.4059,abstain
+GOLAN,YE,Yemen,0.0,0.0005,0.9995,yes
+GOLAN,YU,Yugoslavia,0.0156,0.4486,0.5359,yes
+GOLAN,ZA,South Africa,0.0001,0.0068,0.9931,yes
+GOLAN,ZM,Zambia,0.0078,0.3349,0.6573,yes
+GOLAN,ZW,Zimbabwe,0.0009,0.0191,0.98,yes
+JERUS,AD,Andorra,0.0018,0.0662,0.932,yes
+JERUS,AE,United Arab Emirates,0.0,0.0035,0.9964,yes
+JERUS,AF,Afghanistan,0.0,0.0,1.0,yes
+JERUS,AG,Antigua & Barbuda,0.0001,0.0146,0.9853,yes
+JERUS,AL,Albania,0.0071,0.2198,0.7731,yes
+JERUS,AM,Armenia,0.0001,0.0028,0.9971,yes
+JERUS,AO,Angola,0.0002,0.0354,0.9644,yes
+JERUS,AR,Argentina,0.0076,0.0834,0.909,yes
+JERUS,AT,Austria,0.0063,0.145,0.8487,yes
+JERUS,AU,Australia,0.2904,0.4837,0.2259,abstain
+JERUS,AZ,Azerbaijan,0.0,0.0,1.0,yes
+JERUS,BA,Bosnia & Herzegovina,0.0005,0.0203,0.9792,yes
+JERUS,BB,Barbados,0.0005,0.0503,0.9493,yes
+JERUS,BD,Bangladesh,0.0,0.0001,0.9999,yes
+JERUS,BE,Belgium,0.0035,0.0869,0.9097,yes
+JERUS,BF,Burkina Faso,0.0001,0.0217,0.9782,yes
+JERUS,BG,Bulgaria,0.0037,0.1292,0.8671,yes
+JERUS,BH,Bahrain,0.0,0.0014,0.9986,yes
+JERUS,BI,Burundi,0.0009,0.0989,0.9002,yes
+JERUS,BJ,Benin,0.0001,0.0249,0.975,yes
+JERUS,BN,Brunei,0.0,0.0001,0.9999,yes
+JERUS,BO,Bolivia,0.0007,0.0285,0.9707,yes
+JERUS,BR,Brazil,0.0137,0.1845,0.8018,yes
+JERUS,BS,Bahamas,0.0007,0.0624,0.9369,yes
+JERUS,BT,Bhutan,0.0,0.0011,0.9989,yes
+JERUS,BW,Botswana,0.0005,0.0812,0.9183,yes
+JERUS,BY,Belarus,0.0002,0.004,0.9958,yes
+JERUS,BZ,Belize,0.0001,0.0067,0.9932,yes
+JERUS,CA,Canada,0.6646,0.1713,0.1641,no
+JERUS,CD,Congo - Kinshasa,0.0095,0.4784,0.5121,yes
+JERUS,CF,Central African Republic,0.0166,0.4348,0.5486,yes
+JERUS,CG,Congo - Brazzaville,0.0002,0.0405,0.9593,yes
+JERUS,CH,Switzerland,0.0022,0.0858,0.912,yes
+JERUS,CI,Côte d’Ivoire,0.0623,0.5961,0.3416,abstain
+JERUS,CL,Chile,0.0,0.0015,0.9985,yes
+JERUS,CM,Cameroon,0.1839,0.7709,0.0452,abstain
+JERUS,CN,China,0.0,0.0,1.0,yes
+JERUS,CO,Colombia,0.0035,0.1555,0.841,yes
+JERUS,CR,Costa Rica,0.0032,0.189,0.8078,yes
+JERUS,CU,Cuba,0.0,0.0002,0.9998,yes
+JERUS,CV,Cape Verde,0.0001,0.0212,0.9787,yes
+JERUS,CY,Cyprus,0.0002,0.0088,0.991,yes
+JERUS,CZ,Czechia,0.0821,0.1802,0.7376,yes
+JERUS,DE,Germany,0.0221,0.177,0.8009,yes
+JERUS,DJ,Djibouti,0.0,0.0005,0.9995,yes
+JERUS,DK,Denmark,0.0068,0.1286,0.8646,yes
+JERUS,DM,Dominica,0.0005,0.0381,0.9614,yes
+JERUS,DO,Dominican Republic,0.0021,0.1775,0.8203,yes
+JERUS,DZ,Algeria,0.0,0.001,0.999,yes
+JERUS,EC,Ecuador,0.0036,0.0726,0.9238,yes
+JERUS,EE,Estonia,0.007,0.1596,0.8335,yes
+JERUS,EG,Egypt,0.0,0.001,0.999,yes
+JERUS,ER,Eritrea,0.0002,0.0231,0.9767,yes
+JERUS,ES,Spain,0.0011,0.035,0.9639,yes
+JERUS,ET,Ethiopia,0.0008,0.1211,0.8781,yes
+JERUS,FI,Finland,0.0016,0.055,0.9434,yes
+JERUS,FJ,Fiji,0.0119,0.4987,0.4895,abstain
+JERUS,FM,Micronesia (Federated States of),0.975,0.0233,0.0017,no
+JERUS,FR,France,0.0047,0.0768,0.9186,yes
+JERUS,GA,Gabon,0.0001,0.0185,0.9814,yes
+JERUS,GB,United Kingdom,0.0274,0.1475,0.8252,yes
+JERUS,GD,Grenada,0.0069,0.1513,0.8418,yes
+JERUS,GE,Georgia,0.0033,0.2003,0.7964,yes
+JERUS,GH,Ghana,0.0004,0.0661,0.9335,yes
+JERUS,GM,Gambia,0.0,0.0042,0.9958,yes
+JERUS,GN,Guinea,0.0,0.0041,0.9959,yes
+JERUS,GQ,Equatorial Guinea,0.0016,0.274,0.7244,yes
+JERUS,GR,Greece,0.001,0.0556,0.9434,yes
+JERUS,GT,Guatemala,0.1076,0.3328,0.5596,yes
+JERUS,GW,Guinea-Bissau,0.0,0.0081,0.9919,yes
+JERUS,GY,Guyana,0.0,0.0011,0.9989,yes
+JERUS,HN,Honduras,0.0182,0.5156,0.4663,abstain
+JERUS,HR,Croatia,0.0081,0.1883,0.8037,yes
+JERUS,HT,Haiti,0.0103,0.3493,0.6404,yes
+JERUS,HU,Hungary,0.1201,0.1772,0.7028,yes
+JERUS,ID,Indonesia,0.0,0.0,1.0,yes
+JERUS,IE,Ireland,0.0013,0.0369,0.9618,yes
+JERUS,IL,Israel,0.9999,0.0001,0.0,no
+JERUS,IN,India,0.0003,0.0347,0.9649,yes
+JERUS,IQ,Iraq,0.0,0.0002,0.9998,yes
+JERUS,IR,Iran,0.0,0.0,1.0,yes
+JERUS,IS,Iceland,0.0005,0.0202,0.9793,yes
+JERUS,IT,Italy,0.0042,0.1151,0.8807,yes
+JERUS,JM,Jamaica,0.0002,0.0338,0.9659,yes
+JERUS,JO,Jordan,0.0,0.0007,0.9993,yes
+JERUS,JP,Japan,0.001,0.0355,0.9634,yes
+JERUS,KE,Kenya,0.0005,0.1002,0.8993,yes
+JERUS,KG,Kyrgyzstan,0.0,0.0008,0.9992,yes
+JERUS,KH,Cambodia,0.0,0.0016,0.9984,yes
+JERUS,KI,Kiribati,0.0832,0.6739,0.2429,abstain
+JERUS,KM,Comoros,0.0,0.0003,0.9997,yes
+JERUS,KN,St. Kitts & Nevis,0.0002,0.0214,0.9784,yes
+JERUS,KP,North Korea,0.0,0.0002,0.9998,yes
+JERUS,KR,South Korea,0.0003,0.0243,0.9754,yes
+JERUS,KW,Kuwait,0.0,0.0002,0.9998,yes
+JERUS,KZ,Kazakhstan,0.0,0.0017,0.9983,yes
+JERUS,LA,Laos,0.0001,0.0238,0.976,yes
+JERUS,LB,Lebanon,0.0,0.0,1.0,yes
+JERUS,LC,St. Lucia,0.0001,0.0119,0.988,yes
+JERUS,LI,Liechtenstein,0.0016,0.0518,0.9466,yes
+JERUS,LK,Sri Lanka,0.0,0.0011,0.9989,yes
+JERUS,LR,Liberia,0.2139,0.2174,0.5687,yes
+JERUS,LS,Lesotho,0.0001,0.0201,0.9797,yes
+JERUS,LT,Lithuania,0.0119,0.1873,0.8008,yes
+JERUS,LU,Luxembourg,0.0021,0.0696,0.9283,yes
+JERUS,LV,Latvia,0.0027,0.1098,0.8875,yes
+JERUS,LY,Libya,0.0,0.0018,0.9982,yes
+JERUS,MA,Morocco,0.0,0.0001,0.9999,yes
+JERUS,MC,Monaco,0.0033,0.1271,0.8695,yes
+JERUS,MD,Moldova,0.0014,0.0892,0.9094,yes
+JERUS,ME,Montenegro,0.001,0.0533,0.9457,yes
+JERUS,MG,Madagascar,0.0056,0.426,0.5684,yes
+JERUS,MH,Marshall Islands,0.8458,0.1442,0.0101,no
+JERUS,MK,North Macedonia,0.0038,0.1637,0.8325,yes
+JERUS,ML,Mali,0.0,0.0032,0.9968,yes
+JERUS,MM,Myanmar (Burma),0.0001,0.0091,0.9908,yes
+JERUS,MN,Mongolia,0.0001,0.0134,0.9865,yes
+JERUS,MR,Mauritania,0.0,0.0014,0.9986,yes
+JERUS,MT,Malta,0.0003,0.0072,0.9926,yes
+JERUS,MU,Mauritius,0.0,0.0008,0.9992,yes
+JERUS,MV,Maldives,0.0,0.0001,0.9999,yes
+JERUS,MW,Malawi,0.0111,0.4509,0.5379,yes
+JERUS,MX,Mexico,0.0019,0.1082,0.8899,yes
+JERUS,MY,Malaysia,0.0,0.0001,0.9999,yes
+JERUS,MZ,Mozambique,0.0,0.008,0.992,yes
+JERUS,NA,Namibia,0.0001,0.014,0.9858,yes
+JERUS,NE,Niger,0.0,0.0012,0.9988,yes
+JERUS,NG,Nigeria,0.0001,0.0113,0.9887,yes
+JERUS,NI,Nicaragua,0.0053,0.0707,0.924,yes
+JERUS,NL,Netherlands,0.013,0.1563,0.8307,yes
+JERUS,NO,Norway,0.0011,0.0493,0.9497,yes
+JERUS,NP,Nepal,0.0,0.0072,0.9928,yes
+JERUS,NR,Nauru,0.8804,0.1155,0.004,no
+JERUS,NZ,New Zealand,0.0045,0.0881,0.9075,yes
+JERUS,OM,Oman,0.0,0.0,1.0,yes
+JERUS,PA,Panama,0.0328,0.5562,0.411,abstain
+JERUS,PE,Peru,0.0011,0.085,0.9139,yes
+JERUS,PG,Papua New Guinea,0.1999,0.6796,0.1205,abstain
+JERUS,PH,Philippines,0.0,0.008,0.992,yes
+JERUS,PK,Pakistan,0.0,0.0,1.0,yes
+JERUS,PL,Poland,0.0047,0.1293,0.866,yes
+JERUS,PT,Portugal,0.0006,0.0196,0.9797,yes
+JERUS,PW,Palau,0.9172,0.0752,0.0076,no
+JERUS,PY,Paraguay,0.0253,0.4537,0.521,yes
+JERUS,QA,Qatar,0.0,0.0001,0.9999,yes
+JERUS,RO,Romania,0.0064,0.1722,0.8213,yes
+JERUS,RU,Russia,0.0016,0.0318,0.9667,yes
+JERUS,RW,Rwanda,0.0257,0.7272,0.2471,abstain
+JERUS,SA,Saudi Arabia,0.0,0.001,0.999,yes
+JERUS,SB,Solomon Islands,0.0091,0.1513,0.8396,yes
+JERUS,SC,Seychelles,0.0,0.0078,0.9921,yes
+JERUS,SD,Sudan,0.0001,0.0081,0.9918,yes
+JERUS,SE,Sweden,0.0038,0.0846,0.9116,yes
+JERUS,SG,Singapore,0.0001,0.0095,0.9904,yes
+JERUS,SI,Slovenia,0.0025,0.0907,0.9068,yes
+JERUS,SK,Slovakia,0.0049,0.1348,0.8602,yes
+JERUS,SL,Sierra Leone,0.0,0.0042,0.9958,yes
+JERUS,SM,San Marino,0.0027,0.1001,0.8972,yes
+JERUS,SN,Senegal,0.0,0.0012,0.9988,yes
+JERUS,SO,Somalia,0.0,0.0014,0.9985,yes
+JERUS,SR,Suriname,0.0,0.0066,0.9933,yes
+JERUS,SS,South Sudan,0.127,0.8095,0.0635,abstain
+JERUS,ST,São Tomé & Príncipe,0.0003,0.0938,0.9059,yes
+JERUS,SV,El Salvador,0.0089,0.1384,0.8527,yes
+JERUS,SY,Syria,0.0,0.0,1.0,yes
+JERUS,SZ,Eswatini,0.0091,0.265,0.7259,yes
+JERUS,TD,Chad,0.0,0.0061,0.9939,yes
+JERUS,TG,Togo,0.0119,0.6004,0.3878,abstain
+JERUS,TH,Thailand,0.0001,0.0155,0.9844,yes
+JERUS,TJ,Tajikistan,0.0,0.0006,0.9994,yes
+JERUS,TL,Timor-Leste,0.0003,0.0554,0.9443,yes
+JERUS,TM,Turkmenistan,0.0,0.0001,0.9999,yes
+JERUS,TN,Tunisia,0.0,0.0006,0.9994,yes
+JERUS,TO,Tonga,0.1068,0.7872,0.106,abstain
+JERUS,TR,Turkey,0.0,0.0,1.0,yes
+JERUS,TT,Trinidad & Tobago,0.0002,0.0261,0.9737,yes
+JERUS,TV,Tuvalu,0.048,0.2734,0.6786,yes
+JERUS,TZ,Tanzania,0.0001,0.016,0.9839,yes
+JERUS,UA,Ukraine,0.0065,0.1805,0.8129,yes
+JERUS,UG,Uganda,0.0025,0.1302,0.8672,yes
+JERUS,US,United States,0.9831,0.0146,0.0023,no
+JERUS,UY,Uruguay,0.0033,0.2073,0.7894,yes
+JERUS,UZ,Uzbekistan,0.0,0.001,0.9989,yes
+JERUS,VC,St. Vincent & Grenadines,0.0002,0.0133,0.9865,yes
+JERUS,VN,Vietnam,0.0,0.0006,0.9994,yes
+JERUS,VU,Vanuatu,0.0681,0.7702,0.1618,abstain
+JERUS,WS,Samoa,0.0141,0.2394,0.7465,yes
+JERUS,YE,Yemen,0.0,0.0019,0.9981,yes
+JERUS,YU,Yugoslavia,0.0007,0.0458,0.9535,yes
+JERUS,ZA,South Africa,0.0,0.0002,0.9998,yes
+JERUS,ZM,Zambia,0.0015,0.1256,0.8729,yes
+JERUS,ZW,Zimbabwe,0.0001,0.0019,0.998,yes
+PAL-2,AD,Andorra,0.0582,0.6754,0.2663,abstain
+PAL-2,AE,United Arab Emirates,0.0,0.0034,0.9966,yes
+PAL-2,AF,Afghanistan,0.0,0.0,1.0,yes
+PAL-2,AG,Antigua & Barbuda,0.0002,0.0166,0.9833,yes
+PAL-2,AL,Albania,0.0999,0.752,0.1481,abstain
+PAL-2,AM,Armenia,0.0189,0.3622,0.6189,yes
+PAL-2,AO,Angola,0.0001,0.0115,0.9884,yes
+PAL-2,AR,Argentina,0.056,0.3357,0.6083,yes
+PAL-2,AT,Austria,0.1996,0.667,0.1334,abstain
+PAL-2,AU,Australia,0.7823,0.1761,0.0416,no
+PAL-2,AZ,Azerbaijan,0.0002,0.016,0.9838,yes
+PAL-2,BA,Bosnia & Herzegovina,0.0601,0.6566,0.2833,abstain
+PAL-2,BB,Barbados,0.0003,0.0287,0.971,yes
+PAL-2,BD,Bangladesh,0.0,0.0002,0.9998,yes
+PAL-2,BE,Belgium,0.1086,0.6634,0.2281,abstain
+PAL-2,BF,Burkina Faso,0.0002,0.043,0.9568,yes
+PAL-2,BG,Bulgaria,0.1037,0.7387,0.1576,abstain
+PAL-2,BH,Bahrain,0.0,0.0022,0.9978,yes
+PAL-2,BI,Burundi,0.0006,0.079,0.9204,yes
+PAL-2,BJ,Benin,0.0001,0.0277,0.9722,yes
+PAL-2,BN,Brunei,0.0,0.0002,0.9998,yes
+PAL-2,BO,Bolivia,0.0012,0.0524,0.9464,yes
+PAL-2,BR,Brazil,0.0801,0.3099,0.61,yes
+PAL-2,BS,Bahamas,0.0005,0.0581,0.9414,yes
+PAL-2,BT,Bhutan,0.0,0.0024,0.9976,yes
+PAL-2,BW,Botswana,0.0003,0.0567,0.9429,yes
+PAL-2,BY,Belarus,0.0129,0.311,0.6761,yes
+PAL-2,BZ,Belize,0.0002,0.019,0.9809,yes
+PAL-2,CA,Canada,0.8652,0.114,0.0208,no
+PAL-2,CD,Congo - Kinshasa,0.0103,0.2951,0.6946,yes
+PAL-2,CF,Central African Republic,0.015,0.4405,0.5445,yes
+PAL-2,CG,Congo - Brazzaville,0.0001,0.0227,0.9772,yes
+PAL-2,CH,Switzerland,0.1859,0.6754,0.1387,abstain
+PAL-2,CI,Côte d’Ivoire,0.002,0.1974,0.8006,yes
+PAL-2,CL,Chile,0.0002,0.0159,0.984,yes
+PAL-2,CM,Cameroon,0.0512,0.6804,0.2685,abstain
+PAL-2,CN,China,0.0,0.0008,0.9992,yes
+PAL-2,CO,Colombia,0.0868,0.3487,0.5645,yes
+PAL-2,CR,Costa Rica,0.0028,0.2463,0.7509,yes
+PAL-2,CU,Cuba,0.0,0.0003,0.9997,yes
+PAL-2,CV,Cape Verde,0.0001,0.0196,0.9804,yes
+PAL-2,CY,Cyprus,0.0031,0.1598,0.8371,yes
+PAL-2,CZ,Czechia,0.3241,0.5875,0.0885,abstain
+PAL-2,DE,Germany,0.2429,0.6394,0.1177,abstain
+PAL-2,DJ,Djibouti,0.0,0.0007,0.9993,yes
+PAL-2,DK,Denmark,0.1827,0.6811,0.1362,abstain
+PAL-2,DM,Dominica,0.0008,0.0554,0.9438,yes
+PAL-2,DO,Dominican Republic,0.0025,0.2314,0.7661,yes
+PAL-2,DZ,Algeria,0.0,0.0002,0.9998,yes
+PAL-2,EC,Ecuador,0.0044,0.072,0.9236,yes
+PAL-2,EE,Estonia,0.115,0.7284,0.1567,abstain
+PAL-2,EG,Egypt,0.0,0.0009,0.9991,yes
+PAL-2,ER,Eritrea,0.0002,0.037,0.9627,yes
+PAL-2,ES,Spain,0.0706,0.6755,0.2539,abstain
+PAL-2,ET,Ethiopia,0.0004,0.0729,0.9268,yes
+PAL-2,FI,Finland,0.1093,0.6628,0.2279,abstain
+PAL-2,FJ,Fiji,0.0035,0.3894,0.6071,yes
+PAL-2,FM,Micronesia (Federated States of),0.8636,0.1263,0.0102,no
+PAL-2,FR,France,0.1467,0.61,0.2433,abstain
+PAL-2,GA,Gabon,0.0001,0.0241,0.9758,yes
+PAL-2,GB,United Kingdom,0.2634,0.5633,0.1734,abstain
+PAL-2,GD,Grenada,0.0025,0.1575,0.8399,yes
+PAL-2,GE,Georgia,0.0573,0.7541,0.1886,abstain
+PAL-2,GH,Ghana,0.0017,0.1438,0.8545,yes
+PAL-2,GM,Gambia,0.0001,0.012,0.9879,yes
+PAL-2,GN,Guinea,0.0002,0.0255,0.9744,yes
+PAL-2,GQ,Equatorial Guinea,0.0005,0.117,0.8826,yes
+PAL-2,GR,Greece,0.0398,0.6773,0.2829,abstain
+PAL-2,GT,Guatemala,0.1867,0.5624,0.2509,abstain
+PAL-2,GW,Guinea-Bissau,0.0,0.0026,0.9974,yes
+PAL-2,GY,Guyana,0.0001,0.0055,0.9945,yes
+PAL-2,HN,Honduras,0.0942,0.5784,0.3274,abstain
+PAL-2,HR,Croatia,0.1214,0.7383,0.1403,abstain
+PAL-2,HT,Haiti,0.0016,0.2153,0.783,yes
+PAL-2,HU,Hungary,0.3473,0.5864,0.0663,abstain
+PAL-2,ID,Indonesia,0.0,0.0,1.0,yes
+PAL-2,IE,Ireland,0.1123,0.6852,0.2024,abstain
+PAL-2,IL,Israel,0.9931,0.0067,0.0002,no
+PAL-2,IN,India,0.0001,0.0079,0.992,yes
+PAL-2,IQ,Iraq,0.0,0.0001,0.9999,yes
+PAL-2,IR,Iran,0.0,0.0001,0.9999,yes
+PAL-2,IS,Iceland,0.0847,0.684,0.2314,abstain
+PAL-2,IT,Italy,0.1253,0.707,0.1677,abstain
+PAL-2,JM,Jamaica,0.0003,0.0358,0.9639,yes
+PAL-2,JO,Jordan,0.0,0.0006,0.9994,yes
+PAL-2,JP,Japan,0.1348,0.6278,0.2374,abstain
+PAL-2,KE,Kenya,0.0004,0.0827,0.9169,yes
+PAL-2,KG,Kyrgyzstan,0.0007,0.0732,0.9261,yes
+PAL-2,KH,Cambodia,0.0001,0.014,0.9859,yes
+PAL-2,KI,Kiribati,0.1046,0.652,0.2435,abstain
+PAL-2,KM,Comoros,0.0,0.0017,0.9983,yes
+PAL-2,KN,St. Kitts & Nevis,0.0002,0.0205,0.9793,yes
+PAL-2,KP,North Korea,0.0,0.0006,0.9994,yes
+PAL-2,KR,South Korea,0.0547,0.6884,0.2568,abstain
+PAL-2,KW,Kuwait,0.0,0.002,0.998,yes
+PAL-2,KZ,Kazakhstan,0.0031,0.1168,0.8801,yes
+PAL-2,LA,Laos,0.0,0.0035,0.9965,yes
+PAL-2,LB,Lebanon,0.0,0.0001,0.9999,yes
+PAL-2,LC,St. Lucia,0.0001,0.0112,0.9887,yes
+PAL-2,LI,Liechtenstein,0.0951,0.6898,0.2152,abstain
+PAL-2,LK,Sri Lanka,0.0,0.0009,0.9991,yes
+PAL-2,LR,Liberia,0.1207,0.3225,0.5568,yes
+PAL-2,LS,Lesotho,0.0001,0.0199,0.9799,yes
+PAL-2,LT,Lithuania,0.1576,0.726,0.1164,abstain
+PAL-2,LU,Luxembourg,0.1231,0.6987,0.1783,abstain
+PAL-2,LV,Latvia,0.1124,0.7316,0.156,abstain
+PAL-2,LY,Libya,0.0,0.0003,0.9997,yes
+PAL-2,MA,Morocco,0.0,0.0003,0.9997,yes
+PAL-2,MC,Monaco,0.0559,0.6686,0.2756,abstain
+PAL-2,MD,Moldova,0.061,0.7464,0.1926,abstain
+PAL-2,ME,Montenegro,0.0623,0.7019,0.2358,abstain
+PAL-2,MG,Madagascar,0.003,0.2514,0.7457,yes
+PAL-2,MH,Marshall Islands,0.7924,0.1723,0.0352,no
+PAL-2,MK,North Macedonia,0.0602,0.726,0.2138,abstain
+PAL-2,ML,Mali,0.0007,0.0597,0.9396,yes
+PAL-2,MM,Myanmar (Burma),0.0001,0.0093,0.9906,yes
+PAL-2,MN,Mongolia,0.0006,0.0929,0.9065,yes
+PAL-2,MR,Mauritania,0.0,0.0017,0.9982,yes
+PAL-2,MT,Malta,0.0086,0.275,0.7165,yes
+PAL-2,MU,Mauritius,0.0001,0.0076,0.9923,yes
+PAL-2,MV,Maldives,0.0,0.0005,0.9995,yes
+PAL-2,MW,Malawi,0.002,0.2946,0.7033,yes
+PAL-2,MX,Mexico,0.0148,0.3143,0.6709,yes
+PAL-2,MY,Malaysia,0.0,0.0004,0.9995,yes
+PAL-2,MZ,Mozambique,0.0,0.0057,0.9943,yes
+PAL-2,NA,Namibia,0.0,0.0042,0.9958,yes
+PAL-2,NE,Niger,0.0001,0.0164,0.9835,yes
+PAL-2,NG,Nigeria,0.0001,0.0145,0.9855,yes
+PAL-2,NI,Nicaragua,0.0213,0.1896,0.7891,yes
+PAL-2,NL,Netherlands,0.1754,0.6691,0.1556,abstain
+PAL-2,NO,Norway,0.1108,0.7213,0.168,abstain
+PAL-2,NP,Nepal,0.0,0.0136,0.9863,yes
+PAL-2,NR,Nauru,0.7579,0.1584,0.0837,no
+PAL-2,NZ,New Zealand,0.2701,0.5899,0.14,abstain
+PAL-2,OM,Oman,0.0,0.0001,0.9999,yes
+PAL-2,PA,Panama,0.0281,0.4323,0.5396,yes
+PAL-2,PE,Peru,0.0175,0.4905,0.4921,yes
+PAL-2,PG,Papua New Guinea,0.0518,0.5226,0.4256,abstain
+PAL-2,PH,Philippines,0.0002,0.0588,0.941,yes
+PAL-2,PK,Pakistan,0.0,0.0001,0.9999,yes
+PAL-2,PL,Poland,0.1208,0.7219,0.1573,abstain
+PAL-2,PT,Portugal,0.0831,0.7021,0.2148,abstain
+PAL-2,PW,Palau,0.7726,0.1848,0.0426,no
+PAL-2,PY,Paraguay,0.0386,0.433,0.5284,yes
+PAL-2,QA,Qatar,0.0,0.0002,0.9998,yes
+PAL-2,RO,Romania,0.145,0.7426,0.1124,abstain
+PAL-2,RU,Russia,0.1297,0.6537,0.2165,abstain
+PAL-2,RW,Rwanda,0.0095,0.5924,0.398,abstain
+PAL-2,SA,Saudi Arabia,0.0,0.0009,0.9991,yes
+PAL-2,SB,Solomon Islands,0.0593,0.4228,0.5179,yes
+PAL-2,SC,Seychelles,0.0,0.0031,0.9969,yes
+PAL-2,SD,Sudan,0.0,0.0016,0.9984,yes
+PAL-2,SE,Sweden,0.1753,0.6495,0.1752,abstain
+PAL-2,SG,Singapore,0.0004,0.054,0.9456,yes
+PAL-2,SI,Slovenia,0.0959,0.7203,0.1838,abstain
+PAL-2,SK,Slovakia,0.1235,0.7072,0.1692,abstain
+PAL-2,SL,Sierra Leone,0.0,0.0075,0.9925,yes
+PAL-2,SM,San Marino,0.1009,0.7044,0.1947,abstain
+PAL-2,SN,Senegal,0.0001,0.009,0.9909,yes
+PAL-2,SO,Somalia,0.0,0.0005,0.9995,yes
+PAL-2,SR,Suriname,0.0001,0.0167,0.9832,yes
+PAL-2,SS,South Sudan,0.0095,0.5799,0.4106,abstain
+PAL-2,ST,São Tomé & Príncipe,0.0002,0.0492,0.9506,yes
+PAL-2,SV,El Salvador,0.0032,0.1845,0.8123,yes
+PAL-2,SY,Syria,0.0,0.0001,0.9999,yes
+PAL-2,SZ,Eswatini,0.0024,0.1783,0.8193,yes
+PAL-2,TD,Chad,0.0,0.0104,0.9895,yes
+PAL-2,TG,Togo,0.0162,0.3439,0.6399,yes
+PAL-2,TH,Thailand,0.0006,0.1545,0.8448,yes
+PAL-2,TJ,Tajikistan,0.0013,0.0893,0.9094,yes
+PAL-2,TL,Timor-Leste,0.0005,0.1081,0.8914,yes
+PAL-2,TM,Turkmenistan,0.0001,0.0124,0.9875,yes
+PAL-2,TN,Tunisia,0.0,0.0006,0.9994,yes
+PAL-2,TO,Tonga,0.0395,0.6198,0.3407,abstain
+PAL-2,TR,Turkey,0.0008,0.0229,0.9763,yes
+PAL-2,TT,Trinidad & Tobago,0.0002,0.0239,0.9759,yes
+PAL-2,TV,Tuvalu,0.085,0.4842,0.4308,abstain
+PAL-2,TZ,Tanzania,0.0,0.0042,0.9958,yes
+PAL-2,UA,Ukraine,0.0995,0.5892,0.3113,abstain
+PAL-2,UG,Uganda,0.0006,0.0864,0.913,yes
+PAL-2,US,United States,0.9794,0.0183,0.0023,no
+PAL-2,UY,Uruguay,0.0095,0.3892,0.6013,yes
+PAL-2,UZ,Uzbekistan,0.0172,0.1664,0.8164,yes
+PAL-2,VC,St. Vincent & Grenadines,0.0017,0.0766,0.9216,yes
+PAL-2,VN,Vietnam,0.0,0.0003,0.9997,yes
+PAL-2,VU,Vanuatu,0.0139,0.5167,0.4693,abstain
+PAL-2,WS,Samoa,0.0408,0.6011,0.3581,abstain
+PAL-2,YE,Yemen,0.0,0.0003,0.9997,yes
+PAL-2,YU,Yugoslavia,0.1118,0.6908,0.1973,abstain
+PAL-2,ZA,South Africa,0.0001,0.016,0.9839,yes
+PAL-2,ZM,Zambia,0.0004,0.0375,0.9621,yes
+PAL-2,ZW,Zimbabwe,0.0007,0.0204,0.9789,yes
+PAL-3,AD,Andorra,0.0786,0.6934,0.228,abstain
+PAL-3,AE,United Arab Emirates,0.0,0.0019,0.9981,yes
+PAL-3,AF,Afghanistan,0.0,0.0,1.0,yes
+PAL-3,AG,Antigua & Barbuda,0.0003,0.0315,0.9682,yes
+PAL-3,AL,Albania,0.1485,0.7301,0.1215,abstain
+PAL-3,AM,Armenia,0.0615,0.5455,0.3929,abstain
+PAL-3,AO,Angola,0.0002,0.0305,0.9694,yes
+PAL-3,AR,Argentina,0.1769,0.4692,0.3539,abstain
+PAL-3,AT,Austria,0.2769,0.601,0.122,abstain
+PAL-3,AU,Australia,0.5879,0.3306,0.0815,no
+PAL-3,AZ,Azerbaijan,0.0005,0.038,0.9615,yes
+PAL-3,BA,Bosnia & Herzegovina,0.0502,0.5671,0.3827,abstain
+PAL-3,BB,Barbados,0.0005,0.0451,0.9544,yes
+PAL-3,BD,Bangladesh,0.0,0.0003,0.9997,yes
+PAL-3,BE,Belgium,0.2018,0.6448,0.1534,abstain
+PAL-3,BF,Burkina Faso,0.0002,0.0562,0.9436,yes
+PAL-3,BG,Bulgaria,0.2051,0.6905,0.1044,abstain
+PAL-3,BH,Bahrain,0.0,0.0014,0.9986,yes
+PAL-3,BI,Burundi,0.001,0.1148,0.8842,yes
+PAL-3,BJ,Benin,0.0002,0.0577,0.9421,yes
+PAL-3,BN,Brunei,0.0,0.0003,0.9997,yes
+PAL-3,BO,Bolivia,0.0016,0.0685,0.9299,yes
+PAL-3,BR,Brazil,0.1148,0.2908,0.5944,yes
+PAL-3,BS,Bahamas,0.0006,0.0693,0.9301,yes
+PAL-3,BT,Bhutan,0.0,0.0065,0.9935,yes
+PAL-3,BW,Botswana,0.0005,0.0833,0.9162,yes
+PAL-3,BY,Belarus,0.0209,0.4223,0.5568,yes
+PAL-3,BZ,Belize,0.0003,0.0304,0.9693,yes
+PAL-3,CA,Canada,0.7685,0.193,0.0385,no
+PAL-3,CD,Congo - Kinshasa,0.0155,0.35,0.6345,yes
+PAL-3,CF,Central African Republic,0.0435,0.4531,0.5034,yes
+PAL-3,CG,Congo - Brazzaville,0.0004,0.0719,0.9278,yes
+PAL-3,CH,Switzerland,0.2853,0.6214,0.0934,abstain
+PAL-3,CI,Côte d’Ivoire,0.0037,0.2626,0.7336,yes
+PAL-3,CL,Chile,0.0003,0.0218,0.978,yes
+PAL-3,CM,Cameroon,0.0929,0.5601,0.347,abstain
+PAL-3,CN,China,0.0001,0.0021,0.9978,yes
+PAL-3,CO,Colombia,0.0688,0.3036,0.6276,yes
+PAL-3,CR,Costa Rica,0.0023,0.2357,0.7621,yes
+PAL-3,CU,Cuba,0.0,0.0005,0.9995,yes
+PAL-3,CV,Cape Verde,0.0001,0.0308,0.9691,yes
+PAL-3,CY,Cyprus,0.005,0.2281,0.7668,yes
+PAL-3,CZ,Czechia,0.4314,0.4986,0.07,abstain
+PAL-3,DE,Germany,0.3736,0.5423,0.0841,abstain
+PAL-3,DJ,Djibouti,0.0,0.0004,0.9996,yes
+PAL-3,DK,Denmark,0.2823,0.6128,0.1049,abstain
+PAL-3,DM,Dominica,0.0017,0.1109,0.8874,yes
+PAL-3,DO,Dominican Republic,0.0027,0.2632,0.7341,yes
+PAL-3,DZ,Algeria,0.0,0.0002,0.9998,yes
+PAL-3,EC,Ecuador,0.0156,0.1632,0.8212,yes
+PAL-3,EE,Estonia,0.1965,0.6724,0.1311,abstain
+PAL-3,EG,Egypt,0.0,0.0005,0.9995,yes
+PAL-3,ER,Eritrea,0.0005,0.0745,0.925,yes
+PAL-3,ES,Spain,0.1016,0.6909,0.2075,abstain
+PAL-3,ET,Ethiopia,0.0008,0.1484,0.8508,yes
+PAL-3,FI,Finland,0.1806,0.6477,0.1717,abstain
+PAL-3,FJ,Fiji,0.0093,0.4929,0.4978,yes
+PAL-3,FM,Micronesia (Federated States of),0.8007,0.1839,0.0155,no
+PAL-3,FR,France,0.2272,0.6052,0.1676,abstain
+PAL-3,GA,Gabon,0.0001,0.039,0.9609,yes
+PAL-3,GB,United Kingdom,0.3769,0.5009,0.1222,abstain
+PAL-3,GD,Grenada,0.003,0.1707,0.8264,yes
+PAL-3,GE,Georgia,0.0841,0.7522,0.1637,abstain
+PAL-3,GH,Ghana,0.0023,0.1702,0.8276,yes
+PAL-3,GM,Gambia,0.0001,0.0109,0.9891,yes
+PAL-3,GN,Guinea,0.0002,0.0284,0.9714,yes
+PAL-3,GQ,Equatorial Guinea,0.0008,0.1821,0.8171,yes
+PAL-3,GR,Greece,0.0852,0.7239,0.1909,abstain
+PAL-3,GT,Guatemala,0.1852,0.454,0.3608,abstain
+PAL-3,GW,Guinea-Bissau,0.0,0.0043,0.9957,yes
+PAL-3,GY,Guyana,0.0001,0.0077,0.9922,yes
+PAL-3,HN,Honduras,0.0683,0.4634,0.4682,yes
+PAL-3,HR,Croatia,0.1971,0.6757,0.1272,abstain
+PAL-3,HT,Haiti,0.0032,0.2499,0.7469,yes
+PAL-3,HU,Hungary,0.4607,0.4891,0.0502,abstain
+PAL-3,ID,Indonesia,0.0,0.0001,0.9999,yes
+PAL-3,IE,Ireland,0.1282,0.664,0.2079,abstain
+PAL-3,IL,Israel,0.9901,0.0095,0.0003,no
+PAL-3,IN,India,0.0009,0.0666,0.9325,yes
+PAL-3,IQ,Iraq,0.0,0.0001,0.9999,yes
+PAL-3,IR,Iran,0.0,0.0004,0.9996,yes
+PAL-3,IS,Iceland,0.1135,0.7164,0.1701,abstain
+PAL-3,IT,Italy,0.2574,0.6395,0.1031,abstain
+PAL-3,JM,Jamaica,0.0005,0.068,0.9315,yes
+PAL-3,JO,Jordan,0.0,0.0005,0.9995,yes
+PAL-3,JP,Japan,0.1102,0.6366,0.2532,abstain
+PAL-3,KE,Kenya,0.0007,0.1369,0.8625,yes
+PAL-3,KG,Kyrgyzstan,0.0009,0.1088,0.8903,yes
+PAL-3,KH,Cambodia,0.0001,0.0185,0.9814,yes
+PAL-3,KI,Kiribati,0.0657,0.6262,0.3081,abstain
+PAL-3,KM,Comoros,0.0,0.002,0.998,yes
+PAL-3,KN,St. Kitts & Nevis,0.0003,0.0347,0.965,yes
+PAL-3,KP,North Korea,0.0001,0.0024,0.9975,yes
+PAL-3,KR,South Korea,0.0442,0.6041,0.3517,abstain
+PAL-3,KW,Kuwait,0.0,0.0011,0.9989,yes
+PAL-3,KZ,Kazakhstan,0.0036,0.1696,0.8267,yes
+PAL-3,LA,Laos,0.0,0.0066,0.9934,yes
+PAL-3,LB,Lebanon,0.0,0.0001,0.9999,yes
+PAL-3,LC,St. Lucia,0.0002,0.0191,0.9807,yes
+PAL-3,LI,Liechtenstein,0.1201,0.6961,0.1839,abstain
+PAL-3,LK,Sri Lanka,0.0,0.0015,0.9985,yes
+PAL-3,LR,Liberia,0.163,0.2919,0.5451,yes
+PAL-3,LS,Lesotho,0.0002,0.0375,0.9622,yes
+PAL-3,LT,Lithuania,0.2482,0.6543,0.0976,abstain
+PAL-3,LU,Luxembourg,0.2271,0.6566,0.1163,abstain
+PAL-3,LV,Latvia,0.157,0.7153,0.1277,abstain
+PAL-3,LY,Libya,0.0,0.0002,0.9998,yes
+PAL-3,MA,Morocco,0.0,0.0003,0.9997,yes
+PAL-3,MC,Monaco,0.0787,0.689,0.2323,abstain
+PAL-3,MD,Moldova,0.0801,0.7505,0.1694,abstain
+PAL-3,ME,Montenegro,0.0824,0.6742,0.2434,abstain
+PAL-3,MG,Madagascar,0.0068,0.3111,0.6822,yes
+PAL-3,MH,Marshall Islands,0.5922,0.3062,0.1016,no
+PAL-3,MK,North Macedonia,0.1229,0.722,0.155,abstain
+PAL-3,ML,Mali,0.0007,0.0559,0.9435,yes
+PAL-3,MM,Myanmar (Burma),0.0001,0.0063,0.9937,yes
+PAL-3,MN,Mongolia,0.0007,0.1041,0.8952,yes
+PAL-3,MR,Mauritania,0.0,0.0016,0.9984,yes
+PAL-3,MT,Malta,0.0105,0.3093,0.6802,yes
+PAL-3,MU,Mauritius,0.0002,0.0196,0.9803,yes
+PAL-3,MV,Maldives,0.0,0.0004,0.9996,yes
+PAL-3,MW,Malawi,0.0052,0.35,0.6448,yes
+PAL-3,MX,Mexico,0.0147,0.2685,0.7168,yes
+PAL-3,MY,Malaysia,0.0,0.0005,0.9995,yes
+PAL-3,MZ,Mozambique,0.0,0.0082,0.9918,yes
+PAL-3,NA,Namibia,0.0001,0.011,0.9889,yes
+PAL-3,NE,Niger,0.0001,0.014,0.9859,yes
+PAL-3,NG,Nigeria,0.0001,0.0238,0.9761,yes
+PAL-3,NI,Nicaragua,0.0115,0.1442,0.8443,yes
+PAL-3,NL,Netherlands,0.3211,0.5784,0.1005,abstain
+PAL-3,NO,Norway,0.1627,0.7187,0.1186,abstain
+PAL-3,NP,Nepal,0.0001,0.0253,0.9747,yes
+PAL-3,NR,Nauru,0.6611,0.1951,0.1438,no
+PAL-3,NZ,New Zealand,0.2025,0.5797,0.2178,abstain
+PAL-3,OM,Oman,0.0,0.0001,0.9999,yes
+PAL-3,PA,Panama,0.0592,0.4426,0.4982,yes
+PAL-3,PE,Peru,0.013,0.3799,0.6071,yes
+PAL-3,PG,Papua New Guinea,0.1005,0.5325,0.367,abstain
+PAL-3,PH,Philippines,0.0003,0.0847,0.915,yes
+PAL-3,PK,Pakistan,0.0,0.0002,0.9998,yes
+PAL-3,PL,Poland,0.2228,0.6568,0.1204,abstain
+PAL-3,PT,Portugal,0.1167,0.7198,0.1635,abstain
+PAL-3,PW,Palau,0.7782,0.1898,0.032,no
+PAL-3,PY,Paraguay,0.0958,0.4366,0.4676,yes
+PAL-3,QA,Qatar,0.0,0.0002,0.9998,yes
+PAL-3,RO,Romania,0.2584,0.6543,0.0873,abstain
+PAL-3,RU,Russia,0.1697,0.6411,0.1892,abstain
+PAL-3,RW,Rwanda,0.0169,0.5427,0.4405,abstain
+PAL-3,SA,Saudi Arabia,0.0,0.0009,0.9991,yes
+PAL-3,SB,Solomon Islands,0.0339,0.3754,0.5907,yes
+PAL-3,SC,Seychelles,0.0,0.0043,0.9957,yes
+PAL-3,SD,Sudan,0.0,0.0019,0.9981,yes
+PAL-3,SE,Sweden,0.2449,0.5956,0.1595,abstain
+PAL-3,SG,Singapore,0.0004,0.0603,0.9393,yes
+PAL-3,SI,Slovenia,0.1496,0.7035,0.1469,abstain
+PAL-3,SK,Slovakia,0.2366,0.6432,0.1201,abstain
+PAL-3,SL,Sierra Leone,0.0,0.0093,0.9907,yes
+PAL-3,SM,San Marino,0.1309,0.6844,0.1846,abstain
+PAL-3,SN,Senegal,0.0001,0.0082,0.9917,yes
+PAL-3,SO,Somalia,0.0,0.0004,0.9996,yes
+PAL-3,SR,Suriname,0.0001,0.0168,0.9832,yes
+PAL-3,SS,South Sudan,0.0128,0.5503,0.4369,abstain
+PAL-3,ST,São Tomé & Príncipe,0.0004,0.104,0.8956,yes
+PAL-3,SV,El Salvador,0.0026,0.1323,0.8652,yes
+PAL-3,SY,Syria,0.0,0.0002,0.9998,yes
+PAL-3,SZ,Eswatini,0.0065,0.2887,0.7048,yes
+PAL-3,TD,Chad,0.0,0.0103,0.9897,yes
+PAL-3,TG,Togo,0.0247,0.3933,0.582,yes
+PAL-3,TH,Thailand,0.0006,0.1422,0.8571,yes
+PAL-3,TJ,Tajikistan,0.0019,0.1353,0.8628,yes
+PAL-3,TL,Timor-Leste,0.0009,0.1624,0.8367,yes
+PAL-3,TM,Turkmenistan,0.0003,0.0289,0.9708,yes
+PAL-3,TN,Tunisia,0.0,0.0004,0.9996,yes
+PAL-3,TO,Tonga,0.0655,0.6236,0.3109,abstain
+PAL-3,TR,Turkey,0.0012,0.0305,0.9684,yes
+PAL-3,TT,Trinidad & Tobago,0.0003,0.0381,0.9616,yes
+PAL-3,TV,Tuvalu,0.0736,0.5033,0.4231,abstain
+PAL-3,TZ,Tanzania,0.0,0.0106,0.9893,yes
+PAL-3,UA,Ukraine,0.129,0.5373,0.3338,abstain
+PAL-3,UG,Uganda,0.0006,0.0758,0.9235,yes
+PAL-3,US,United States,0.9662,0.03,0.0039,no
+PAL-3,UY,Uruguay,0.0309,0.4352,0.5339,yes
+PAL-3,UZ,Uzbekistan,0.042,0.2228,0.7352,yes
+PAL-3,VC,St. Vincent & Grenadines,0.0026,0.1191,0.8783,yes
+PAL-3,VN,Vietnam,0.0,0.0007,0.9993,yes
+PAL-3,VU,Vanuatu,0.006,0.3932,0.6008,yes
+PAL-3,WS,Samoa,0.0552,0.6394,0.3053,abstain
+PAL-3,YE,Yemen,0.0,0.0002,0.9998,yes
+PAL-3,YU,Yugoslavia,0.1601,0.6265,0.2134,abstain
+PAL-3,ZA,South Africa,0.0002,0.0284,0.9713,yes
+PAL-3,ZM,Zambia,0.0009,0.0861,0.913,yes
+PAL-3,ZW,Zimbabwe,0.0009,0.0236,0.9755,yes
+PAL-4,AD,Andorra,0.0018,0.0422,0.956,yes
+PAL-4,AE,United Arab Emirates,0.0,0.0011,0.9989,yes
+PAL-4,AF,Afghanistan,0.0,0.0,1.0,yes
+PAL-4,AG,Antigua & Barbuda,0.0,0.0023,0.9976,yes
+PAL-4,AL,Albania,0.0028,0.103,0.8942,yes
+PAL-4,AM,Armenia,0.0001,0.0014,0.9985,yes
+PAL-4,AO,Angola,0.0002,0.0282,0.9717,yes
+PAL-4,AR,Argentina,0.0062,0.0427,0.951,yes
+PAL-4,AT,Austria,0.0057,0.1182,0.8761,yes
+PAL-4,AU,Australia,0.6899,0.2785,0.0317,no
+PAL-4,AZ,Azerbaijan,0.0,0.0,1.0,yes
+PAL-4,BA,Bosnia & Herzegovina,0.0011,0.046,0.9529,yes
+PAL-4,BB,Barbados,0.0001,0.0076,0.9923,yes
+PAL-4,BD,Bangladesh,0.0,0.0,1.0,yes
+PAL-4,BE,Belgium,0.002,0.0342,0.9638,yes
+PAL-4,BF,Burkina Faso,0.0002,0.0354,0.9644,yes
+PAL-4,BG,Bulgaria,0.0018,0.0527,0.9455,yes
+PAL-4,BH,Bahrain,0.0,0.0008,0.9992,yes
+PAL-4,BI,Burundi,0.0021,0.1934,0.8045,yes
+PAL-4,BJ,Benin,0.0,0.0126,0.9874,yes
+PAL-4,BN,Brunei,0.0,0.0,1.0,yes
+PAL-4,BO,Bolivia,0.0,0.001,0.999,yes
+PAL-4,BR,Brazil,0.005,0.1959,0.7991,yes
+PAL-4,BS,Bahamas,0.0002,0.0188,0.981,yes
+PAL-4,BT,Bhutan,0.0,0.0002,0.9998,yes
+PAL-4,BW,Botswana,0.0005,0.0726,0.9269,yes
+PAL-4,BY,Belarus,0.0001,0.0029,0.997,yes
+PAL-4,BZ,Belize,0.0,0.002,0.998,yes
+PAL-4,CA,Canada,0.8349,0.0867,0.0783,no
+PAL-4,CD,Congo - Kinshasa,0.0054,0.2905,0.7041,yes
+PAL-4,CF,Central African Republic,0.0061,0.4544,0.5395,yes
+PAL-4,CG,Congo - Brazzaville,0.0001,0.0128,0.9871,yes
+PAL-4,CH,Switzerland,0.0012,0.0303,0.9686,yes
+PAL-4,CI,Côte d’Ivoire,0.0047,0.2876,0.7077,yes
+PAL-4,CL,Chile,0.0,0.0003,0.9996,yes
+PAL-4,CM,Cameroon,0.1144,0.8404,0.0452,abstain
+PAL-4,CN,China,0.0,0.0001,0.9999,yes
+PAL-4,CO,Colombia,0.0056,0.2638,0.7307,yes
+PAL-4,CR,Costa Rica,0.0004,0.053,0.9466,yes
+PAL-4,CU,Cuba,0.0,0.0001,0.9999,yes
+PAL-4,CV,Cape Verde,0.0001,0.0176,0.9823,yes
+PAL-4,CY,Cyprus,0.0003,0.0083,0.9914,yes
+PAL-4,CZ,Czechia,0.0245,0.223,0.7525,yes
+PAL-4,DE,Germany,0.006,0.1095,0.8845,yes
+PAL-4,DJ,Djibouti,0.0,0.0007,0.9993,yes
+PAL-4,DK,Denmark,0.0028,0.0539,0.9433,yes
+PAL-4,DM,Dominica,0.0003,0.0138,0.9859,yes
+PAL-4,DO,Dominican Republic,0.0003,0.0334,0.9663,yes
+PAL-4,DZ,Algeria,0.0,0.0002,0.9998,yes
+PAL-4,EC,Ecuador,0.0011,0.0132,0.9857,yes
+PAL-4,EE,Estonia,0.0016,0.0497,0.9487,yes
+PAL-4,EG,Egypt,0.0,0.0001,0.9999,yes
+PAL-4,ER,Eritrea,0.0001,0.0095,0.9904,yes
+PAL-4,ES,Spain,0.0024,0.0466,0.9511,yes
+PAL-4,ET,Ethiopia,0.0004,0.066,0.9336,yes
+PAL-4,FI,Finland,0.0006,0.0115,0.9879,yes
+PAL-4,FJ,Fiji,0.0028,0.2967,0.7005,yes
+PAL-4,FM,Micronesia (Federated States of),0.9769,0.0189,0.0041,no
+PAL-4,FR,France,0.0083,0.0963,0.8954,yes
+PAL-4,GA,Gabon,0.0,0.0045,0.9955,yes
+PAL-4,GB,United Kingdom,0.0123,0.0998,0.8878,yes
+PAL-4,GD,Grenada,0.0097,0.0906,0.8997,yes
+PAL-4,GE,Georgia,0.0008,0.0539,0.9452,yes
+PAL-4,GH,Ghana,0.0011,0.1341,0.8648,yes
+PAL-4,GM,Gambia,0.0,0.0053,0.9947,yes
+PAL-4,GN,Guinea,0.0001,0.0085,0.9914,yes
+PAL-4,GQ,Equatorial Guinea,0.0008,0.1584,0.8408,yes
+PAL-4,GR,Greece,0.0011,0.0362,0.9627,yes
+PAL-4,GT,Guatemala,0.0914,0.5711,0.3376,abstain
+PAL-4,GW,Guinea-Bissau,0.0,0.0037,0.9963,yes
+PAL-4,GY,Guyana,0.0,0.0004,0.9996,yes
+PAL-4,HN,Honduras,0.1086,0.7174,0.174,abstain
+PAL-4,HR,Croatia,0.0022,0.0771,0.9208,yes
+PAL-4,HT,Haiti,0.0048,0.4305,0.5647,yes
+PAL-4,HU,Hungary,0.0371,0.2682,0.6947,yes
+PAL-4,ID,Indonesia,0.0,0.0,1.0,yes
+PAL-4,IE,Ireland,0.0022,0.0437,0.9541,yes
+PAL-4,IL,Israel,0.9972,0.0011,0.0016,no
+PAL-4,IN,India,0.0001,0.0079,0.992,yes
+PAL-4,IQ,Iraq,0.0,0.0001,0.9999,yes
+PAL-4,IR,Iran,0.0,0.0,1.0,yes
+PAL-4,IS,Iceland,0.0005,0.0098,0.9896,yes
+PAL-4,IT,Italy,0.0025,0.0532,0.9443,yes
+PAL-4,JM,Jamaica,0.0001,0.0079,0.9921,yes
+PAL-4,JO,Jordan,0.0,0.0002,0.9998,yes
+PAL-4,JP,Japan,0.0007,0.0115,0.9878,yes
+PAL-4,KE,Kenya,0.0002,0.0497,0.9501,yes
+PAL-4,KG,Kyrgyzstan,0.0,0.0015,0.9985,yes
+PAL-4,KH,Cambodia,0.0,0.0004,0.9996,yes
+PAL-4,KI,Kiribati,0.1171,0.5364,0.3465,abstain
+PAL-4,KM,Comoros,0.0,0.0006,0.9994,yes
+PAL-4,KN,St. Kitts & Nevis,0.0001,0.0043,0.9956,yes
+PAL-4,KP,North Korea,0.0,0.0002,0.9998,yes
+PAL-4,KR,South Korea,0.0003,0.0129,0.9868,yes
+PAL-4,KW,Kuwait,0.0,0.0001,0.9999,yes
+PAL-4,KZ,Kazakhstan,0.0,0.0008,0.9992,yes
+PAL-4,LA,Laos,0.0001,0.014,0.9859,yes
+PAL-4,LB,Lebanon,0.0,0.0,1.0,yes
+PAL-4,LC,St. Lucia,0.0001,0.0057,0.9941,yes
+PAL-4,LI,Liechtenstein,0.0023,0.0533,0.9444,yes
+PAL-4,LK,Sri Lanka,0.0,0.0001,0.9999,yes
+PAL-4,LR,Liberia,0.1967,0.4861,0.3172,abstain
+PAL-4,LS,Lesotho,0.0002,0.0208,0.979,yes
+PAL-4,LT,Lithuania,0.0029,0.0846,0.9125,yes
+PAL-4,LU,Luxembourg,0.0014,0.0246,0.9741,yes
+PAL-4,LV,Latvia,0.0012,0.0319,0.9669,yes
+PAL-4,LY,Libya,0.0,0.0007,0.9993,yes
+PAL-4,MA,Morocco,0.0,0.0,1.0,yes
+PAL-4,MC,Monaco,0.0039,0.1077,0.8884,yes
+PAL-4,MD,Moldova,0.0008,0.0317,0.9675,yes
+PAL-4,ME,Montenegro,0.0013,0.0395,0.9591,yes
+PAL-4,MG,Madagascar,0.0094,0.5723,0.4182,abstain
+PAL-4,MH,Marshall Islands,0.9251,0.067,0.0079,no
+PAL-4,MK,North Macedonia,0.0012,0.0474,0.9514,yes
+PAL-4,ML,Mali,0.0003,0.029,0.9707,yes
+PAL-4,MM,Myanmar (Burma),0.0,0.0037,0.9963,yes
+PAL-4,MN,Mongolia,0.0001,0.0064,0.9936,yes
+PAL-4,MR,Mauritania,0.0,0.002,0.998,yes
+PAL-4,MT,Malta,0.0004,0.0084,0.9912,yes
+PAL-4,MU,Mauritius,0.0,0.0001,0.9999,yes
+PAL-4,MV,Maldives,0.0,0.0,1.0,yes
+PAL-4,MW,Malawi,0.0018,0.2928,0.7055,yes
+PAL-4,MX,Mexico,0.0055,0.2583,0.7363,yes
+PAL-4,MY,Malaysia,0.0,0.0,1.0,yes
+PAL-4,MZ,Mozambique,0.0,0.0048,0.9952,yes
+PAL-4,NA,Namibia,0.0002,0.0169,0.9829,yes
+PAL-4,NE,Niger,0.0,0.0044,0.9956,yes
+PAL-4,NG,Nigeria,0.0005,0.068,0.9315,yes
+PAL-4,NI,Nicaragua,0.0007,0.0218,0.9775,yes
+PAL-4,NL,Netherlands,0.003,0.0603,0.9367,yes
+PAL-4,NO,Norway,0.0008,0.0197,0.9795,yes
+PAL-4,NP,Nepal,0.0,0.0011,0.9989,yes
+PAL-4,NR,Nauru,0.8384,0.1555,0.0061,no
+PAL-4,NZ,New Zealand,0.0087,0.1284,0.8629,yes
+PAL-4,OM,Oman,0.0,0.0,1.0,yes
+PAL-4,PA,Panama,0.0233,0.3243,0.6524,yes
+PAL-4,PE,Peru,0.001,0.0931,0.9059,yes
+PAL-4,PG,Papua New Guinea,0.1076,0.6498,0.2426,abstain
+PAL-4,PH,Philippines,0.0,0.0067,0.9932,yes
+PAL-4,PK,Pakistan,0.0,0.0,1.0,yes
+PAL-4,PL,Poland,0.0018,0.0467,0.9516,yes
+PAL-4,PT,Portugal,0.001,0.018,0.981,yes
+PAL-4,PW,Palau,0.7996,0.1771,0.0233,no
+PAL-4,PY,Paraguay,0.0142,0.3111,0.6747,yes
+PAL-4,QA,Qatar,0.0,0.0,1.0,yes
+PAL-4,RO,Romania,0.0023,0.0809,0.9167,yes
+PAL-4,RU,Russia,0.0017,0.0288,0.9695,yes
+PAL-4,RW,Rwanda,0.0116,0.7122,0.2762,abstain
+PAL-4,SA,Saudi Arabia,0.0,0.0001,0.9999,yes
+PAL-4,SB,Solomon Islands,0.0589,0.2561,0.685,yes
+PAL-4,SC,Seychelles,0.0,0.0047,0.9953,yes
+PAL-4,SD,Sudan,0.0001,0.004,0.9959,yes
+PAL-4,SE,Sweden,0.002,0.034,0.964,yes
+PAL-4,SG,Singapore,0.0,0.0037,0.9963,yes
+PAL-4,SI,Slovenia,0.0019,0.0427,0.9554,yes
+PAL-4,SK,Slovakia,0.0025,0.0617,0.9358,yes
+PAL-4,SL,Sierra Leone,0.0,0.0056,0.9944,yes
+PAL-4,SM,San Marino,0.0023,0.0621,0.9357,yes
+PAL-4,SN,Senegal,0.0,0.0006,0.9994,yes
+PAL-4,SO,Somalia,0.0,0.0003,0.9997,yes
+PAL-4,SR,Suriname,0.0,0.002,0.998,yes
+PAL-4,SS,South Sudan,0.0466,0.8499,0.1035,abstain
+PAL-4,ST,São Tomé & Príncipe,0.0002,0.0671,0.9327,yes
+PAL-4,SV,El Salvador,0.0004,0.0392,0.9604,yes
+PAL-4,SY,Syria,0.0,0.0,1.0,yes
+PAL-4,SZ,Eswatini,0.0019,0.1561,0.842,yes
+PAL-4,TD,Chad,0.0,0.0083,0.9916,yes
+PAL-4,TG,Togo,0.0053,0.4335,0.5612,yes
+PAL-4,TH,Thailand,0.0,0.0106,0.9893,yes
+PAL-4,TJ,Tajikistan,0.0,0.0006,0.9994,yes
+PAL-4,TL,Timor-Leste,0.0002,0.0451,0.9547,yes
+PAL-4,TM,Turkmenistan,0.0,0.0,1.0,yes
+PAL-4,TN,Tunisia,0.0,0.0002,0.9998,yes
+PAL-4,TO,Tonga,0.1771,0.7356,0.0873,abstain
+PAL-4,TR,Turkey,0.0,0.0003,0.9997,yes
+PAL-4,TT,Trinidad & Tobago,0.0001,0.0092,0.9907,yes
+PAL-4,TV,Tuvalu,0.038,0.1783,0.7837,yes
+PAL-4,TZ,Tanzania,0.0,0.0085,0.9914,yes
+PAL-4,UA,Ukraine,0.0016,0.0665,0.9319,yes
+PAL-4,UG,Uganda,0.0008,0.087,0.9122,yes
+PAL-4,US,United States,0.9949,0.0042,0.0009,no
+PAL-4,UY,Uruguay,0.001,0.0873,0.9117,yes
+PAL-4,UZ,Uzbekistan,0.0003,0.0119,0.9877,yes
+PAL-4,VC,St. Vincent & Grenadines,0.0002,0.0108,0.9889,yes
+PAL-4,VN,Vietnam,0.0,0.0001,0.9999,yes
+PAL-4,VU,Vanuatu,0.0889,0.7349,0.1762,abstain
+PAL-4,WS,Samoa,0.0149,0.3583,0.6268,yes
+PAL-4,YE,Yemen,0.0,0.0001,0.9999,yes
+PAL-4,YU,Yugoslavia,0.0007,0.0295,0.9698,yes
+PAL-4,ZA,South Africa,0.0,0.0,1.0,yes
+PAL-4,ZM,Zambia,0.0006,0.0485,0.9509,yes
+PAL-4,ZW,Zimbabwe,0.0001,0.0031,0.9967,yes
+UKR,AD,Andorra,0.0025,0.0582,0.9393,yes
+UKR,AE,United Arab Emirates,0.0413,0.6892,0.2695,abstain
+UKR,AF,Afghanistan,0.0293,0.5219,0.4488,abstain
+UKR,AG,Antigua & Barbuda,0.0055,0.3126,0.6818,yes
+UKR,AL,Albania,0.0027,0.0438,0.9535,yes
+UKR,AM,Armenia,0.3177,0.5122,0.1701,abstain
+UKR,AO,Angola,0.0812,0.7279,0.1909,abstain
+UKR,AR,Argentina,0.0356,0.2585,0.7059,yes
+UKR,AT,Austria,0.0043,0.0452,0.9505,yes
+UKR,AU,Australia,0.0066,0.0375,0.9559,yes
+UKR,AZ,Azerbaijan,0.0262,0.4202,0.5536,yes
+UKR,BA,Bosnia & Herzegovina,0.0029,0.1398,0.8573,yes
+UKR,BB,Barbados,0.0025,0.1622,0.8353,yes
+UKR,BD,Bangladesh,0.0476,0.6814,0.271,abstain
+UKR,BE,Belgium,0.0061,0.0348,0.9591,yes
+UKR,BF,Burkina Faso,0.2395,0.6047,0.1558,abstain
+UKR,BG,Bulgaria,0.0058,0.0528,0.9414,yes
+UKR,BH,Bahrain,0.0384,0.6751,0.2865,abstain
+UKR,BI,Burundi,0.6855,0.2255,0.089,no
+UKR,BJ,Benin,0.025,0.7226,0.2524,abstain
+UKR,BN,Brunei,0.074,0.6699,0.2561,abstain
+UKR,BO,Bolivia,0.1901,0.6119,0.1981,abstain
+UKR,BR,Brazil,0.0361,0.5891,0.3748,abstain
+UKR,BS,Bahamas,0.0041,0.2627,0.7332,yes
+UKR,BT,Bhutan,0.0038,0.3257,0.6704,yes
+UKR,BW,Botswana,0.0239,0.6787,0.2975,abstain
+UKR,BY,Belarus,0.7668,0.1729,0.0603,no
+UKR,BZ,Belize,0.0049,0.3133,0.6818,yes
+UKR,CA,Canada,0.0167,0.0975,0.8858,yes
+UKR,CD,Congo - Kinshasa,0.0171,0.6036,0.3794,abstain
+UKR,CF,Central African Republic,0.2486,0.6414,0.1099,abstain
+UKR,CG,Congo - Brazzaville,0.0604,0.7662,0.1735,abstain
+UKR,CH,Switzerland,0.01,0.0883,0.9018,yes
+UKR,CI,Côte d’Ivoire,0.0045,0.3763,0.6193,yes
+UKR,CL,Chile,0.0018,0.1244,0.8738,yes
+UKR,CM,Cameroon,0.1418,0.7342,0.1241,abstain
+UKR,CN,China,0.7298,0.1445,0.1257,no
+UKR,CO,Colombia,0.0258,0.5834,0.3908,abstain
+UKR,CR,Costa Rica,0.0006,0.0609,0.9386,yes
+UKR,CU,Cuba,0.6043,0.2672,0.1285,no
+UKR,CV,Cape Verde,0.0016,0.3196,0.6787,yes
+UKR,CY,Cyprus,0.0008,0.0394,0.9598,yes
+UKR,CZ,Czechia,0.0056,0.034,0.9604,yes
+UKR,DE,Germany,0.0062,0.0358,0.958,yes
+UKR,DJ,Djibouti,0.0356,0.6472,0.3172,abstain
+UKR,DK,Denmark,0.0049,0.0307,0.9644,yes
+UKR,DM,Dominica,0.0099,0.4216,0.5685,yes
+UKR,DO,Dominican Republic,0.0016,0.174,0.8244,yes
+UKR,DZ,Algeria,0.2765,0.5562,0.1672,abstain
+UKR,EC,Ecuador,0.022,0.2744,0.7037,yes
+UKR,EE,Estonia,0.0031,0.0383,0.9586,yes
+UKR,EG,Egypt,0.1195,0.6295,0.251,abstain
+UKR,ER,Eritrea,0.56,0.3464,0.0937,no
+UKR,ES,Spain,0.0055,0.0782,0.9164,yes
+UKR,ET,Ethiopia,0.1309,0.7247,0.1443,abstain
+UKR,FI,Finland,0.0028,0.0325,0.9647,yes
+UKR,FJ,Fiji,0.0055,0.2949,0.6996,yes
+UKR,FM,Micronesia (Federated States of),0.0219,0.0497,0.9284,yes
+UKR,FR,France,0.0146,0.1058,0.8796,yes
+UKR,GA,Gabon,0.0364,0.7341,0.2295,abstain
+UKR,GB,United Kingdom,0.0145,0.0465,0.9389,yes
+UKR,GD,Grenada,0.0071,0.4063,0.5866,yes
+UKR,GE,Georgia,0.0019,0.043,0.9551,yes
+UKR,GH,Ghana,0.066,0.7228,0.2112,abstain
+UKR,GM,Gambia,0.0211,0.6402,0.3387,abstain
+UKR,GN,Guinea,0.1049,0.6614,0.2337,abstain
+UKR,GQ,Equatorial Guinea,0.1195,0.7397,0.1408,abstain
+UKR,GR,Greece,0.005,0.1345,0.8605,yes
+UKR,GT,Guatemala,0.0088,0.4851,0.5061,yes
+UKR,GW,Guinea-Bissau,0.0522,0.7369,0.2109,abstain
+UKR,GY,Guyana,0.0074,0.4017,0.5909,yes
+UKR,HN,Honduras,0.046,0.6842,0.2698,abstain
+UKR,HR,Croatia,0.0025,0.0404,0.9571,yes
+UKR,HT,Haiti,0.0064,0.5229,0.4707,abstain
+UKR,HU,Hungary,0.0081,0.045,0.9469,yes
+UKR,ID,Indonesia,0.0345,0.6468,0.3188,abstain
+UKR,IE,Ireland,0.004,0.0543,0.9417,yes
+UKR,IL,Israel,0.0734,0.1443,0.7823,yes
+UKR,IN,India,0.0318,0.5734,0.3949,abstain
+UKR,IQ,Iraq,0.1848,0.6023,0.2129,abstain
+UKR,IR,Iran,0.7078,0.1215,0.1707,no
+UKR,IS,Iceland,0.0049,0.0485,0.9467,yes
+UKR,IT,Italy,0.0063,0.0481,0.9456,yes
+UKR,JM,Jamaica,0.0072,0.479,0.5139,yes
+UKR,JO,Jordan,0.035,0.6696,0.2954,abstain
+UKR,JP,Japan,0.0032,0.0344,0.9624,yes
+UKR,KE,Kenya,0.0247,0.7021,0.2733,abstain
+UKR,KG,Kyrgyzstan,0.1749,0.6291,0.1959,abstain
+UKR,KH,Cambodia,0.0873,0.663,0.2497,abstain
+UKR,KI,Kiribati,0.0045,0.1583,0.8372,yes
+UKR,KM,Comoros,0.0693,0.6447,0.286,abstain
+UKR,KN,St. Kitts & Nevis,0.0085,0.4275,0.5641,yes
+UKR,KP,North Korea,0.7783,0.1379,0.0839,no
+UKR,KR,South Korea,0.0041,0.1907,0.8052,yes
+UKR,KW,Kuwait,0.0276,0.5828,0.3896,abstain
+UKR,KZ,Kazakhstan,0.1664,0.6112,0.2224,abstain
+UKR,LA,Laos,0.1503,0.6784,0.1713,abstain
+UKR,LB,Lebanon,0.1391,0.6062,0.2547,abstain
+UKR,LC,St. Lucia,0.0171,0.5663,0.4166,abstain
+UKR,LI,Liechtenstein,0.0049,0.0712,0.9239,yes
+UKR,LK,Sri Lanka,0.0647,0.7362,0.199,abstain
+UKR,LR,Liberia,0.0042,0.2013,0.7945,yes
+UKR,LS,Lesotho,0.0363,0.7095,0.2543,abstain
+UKR,LT,Lithuania,0.0042,0.0382,0.9576,yes
+UKR,LU,Luxembourg,0.0056,0.0482,0.9462,yes
+UKR,LV,Latvia,0.0039,0.0418,0.9543,yes
+UKR,LY,Libya,0.1548,0.6273,0.2179,abstain
+UKR,MA,Morocco,0.0038,0.3809,0.6152,yes
+UKR,MC,Monaco,0.0023,0.042,0.9557,yes
+UKR,MD,Moldova,0.0013,0.0438,0.9549,yes
+UKR,ME,Montenegro,0.0031,0.072,0.9249,yes
+UKR,MG,Madagascar,0.1865,0.6822,0.1313,abstain
+UKR,MH,Marshall Islands,0.0163,0.049,0.9347,yes
+UKR,MK,North Macedonia,0.0026,0.0551,0.9424,yes
+UKR,ML,Mali,0.6742,0.2221,0.1037,no
+UKR,MM,Myanmar (Burma),0.0308,0.3315,0.6377,yes
+UKR,MN,Mongolia,0.0997,0.6957,0.2046,abstain
+UKR,MR,Mauritania,0.0561,0.7023,0.2416,abstain
+UKR,MT,Malta,0.0009,0.0281,0.9709,yes
+UKR,MU,Mauritius,0.0065,0.229,0.7645,yes
+UKR,MV,Maldives,0.0114,0.5476,0.441,abstain
+UKR,MW,Malawi,0.0009,0.1946,0.8045,yes
+UKR,MX,Mexico,0.0061,0.285,0.7089,yes
+UKR,MY,Malaysia,0.0221,0.6032,0.3747,abstain
+UKR,MZ,Mozambique,0.0673,0.7335,0.1992,abstain
+UKR,NA,Namibia,0.1326,0.6921,0.1753,abstain
+UKR,NE,Niger,0.4295,0.4053,0.1652,no
+UKR,NG,Nigeria,0.2497,0.5889,0.1614,abstain
+UKR,NI,Nicaragua,0.7746,0.1392,0.0863,no
+UKR,NL,Netherlands,0.0056,0.0341,0.9603,yes
+UKR,NO,Norway,0.0078,0.0666,0.9256,yes
+UKR,NP,Nepal,0.0125,0.6097,0.3779,abstain
+UKR,NR,Nauru,0.1109,0.6519,0.2372,abstain
+UKR,NZ,New Zealand,0.0067,0.0426,0.9507,yes
+UKR,OM,Oman,0.1105,0.6349,0.2546,abstain
+UKR,PA,Panama,0.0018,0.077,0.9212,yes
+UKR,PE,Peru,0.008,0.4582,0.5339,yes
+UKR,PG,Papua New Guinea,0.002,0.1111,0.8869,yes
+UKR,PH,Philippines,0.0467,0.6848,0.2685,abstain
+UKR,PK,Pakistan,0.0677,0.6418,0.2906,abstain
+UKR,PL,Poland,0.0044,0.042,0.9536,yes
+UKR,PT,Portugal,0.0049,0.061,0.9342,yes
+UKR,PW,Palau,0.0358,0.0543,0.9099,yes
+UKR,PY,Paraguay,0.0365,0.633,0.3305,abstain
+UKR,QA,Qatar,0.0133,0.5406,0.4462,abstain
+UKR,RO,Romania,0.0041,0.0555,0.9405,yes
+UKR,RU,Russia,0.8872,0.0739,0.0389,no
+UKR,RW,Rwanda,0.0483,0.7898,0.162,abstain
+UKR,SA,Saudi Arabia,0.0208,0.601,0.3781,abstain
+UKR,SB,Solomon Islands,0.0196,0.418,0.5624,yes
+UKR,SC,Seychelles,0.0003,0.1164,0.8833,yes
+UKR,SD,Sudan,0.6207,0.2279,0.1515,no
+UKR,SE,Sweden,0.0041,0.0286,0.9673,yes
+UKR,SG,Singapore,0.0143,0.5868,0.3989,abstain
+UKR,SI,Slovenia,0.0035,0.0494,0.9471,yes
+UKR,SK,Slovakia,0.0044,0.0449,0.9507,yes
+UKR,SL,Sierra Leone,0.0138,0.6134,0.3728,abstain
+UKR,SM,San Marino,0.0019,0.0394,0.9587,yes
+UKR,SN,Senegal,0.0402,0.6873,0.2726,abstain
+UKR,SO,Somalia,0.0162,0.5106,0.4732,abstain
+UKR,SR,Suriname,0.0031,0.3417,0.6551,yes
+UKR,SS,South Sudan,0.0855,0.7564,0.1581,abstain
+UKR,ST,São Tomé & Príncipe,0.0103,0.6326,0.3571,abstain
+UKR,SV,El Salvador,0.0262,0.6812,0.2926,abstain
+UKR,SY,Syria,0.7733,0.1305,0.0962,no
+UKR,SZ,Eswatini,0.0291,0.695,0.2759,abstain
+UKR,TD,Chad,0.0346,0.6899,0.2755,abstain
+UKR,TG,Togo,0.1109,0.732,0.1571,abstain
+UKR,TH,Thailand,0.0196,0.6504,0.33,abstain
+UKR,TJ,Tajikistan,0.2212,0.6018,0.177,abstain
+UKR,TL,Timor-Leste,0.0029,0.3182,0.6789,yes
+UKR,TM,Turkmenistan,0.1309,0.6293,0.2398,abstain
+UKR,TN,Tunisia,0.0368,0.6781,0.2851,abstain
+UKR,TO,Tonga,0.0224,0.6455,0.3321,abstain
+UKR,TR,Turkey,0.0071,0.1277,0.8653,yes
+UKR,TT,Trinidad & Tobago,0.0127,0.5488,0.4385,abstain
+UKR,TV,Tuvalu,0.0134,0.1529,0.8337,yes
+UKR,TZ,Tanzania,0.0305,0.7105,0.2591,abstain
+UKR,UA,Ukraine,0.0008,0.0329,0.9663,yes
+UKR,UG,Uganda,0.0462,0.7007,0.2531,abstain
+UKR,US,United States,0.0633,0.0509,0.8857,yes
+UKR,UY,Uruguay,0.0019,0.1198,0.8782,yes
+UKR,UZ,Uzbekistan,0.1171,0.6126,0.2703,abstain
+UKR,VC,St. Vincent & Grenadines,0.0408,0.5948,0.3644,abstain
+UKR,VN,Vietnam,0.0672,0.6476,0.2852,abstain
+UKR,VU,Vanuatu,0.0023,0.2563,0.7414,yes
+UKR,WS,Samoa,0.0131,0.1968,0.7901,yes
+UKR,YE,Yemen,0.0208,0.6149,0.3643,abstain
+UKR,YU,Yugoslavia,0.0361,0.3651,0.5988,yes
+UKR,ZA,South Africa,0.033,0.6559,0.311,abstain
+UKR,ZM,Zambia,0.0096,0.4891,0.5013,yes
+UKR,ZW,Zimbabwe,0.6271,0.2169,0.1561,no

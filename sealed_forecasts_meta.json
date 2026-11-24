@@ -1,0 +1,52 @@
+{
+ "created_utc": "2026-11-24T04:40Z",
+ "model": "TCIP-Mix trained on UNGA votes 1991-Dec 2025 (sessions 46-80)",
+ "hyperparameters": {
+  "d": 12,
+  "mixture": {
+   "K": 20,
+   "p": 4,
+   "w_text": 0.2,
+   "s1": 0.3
+  },
+  "knn_K": 5
+ },
+ "items": [
+  {
+   "id": "PAL-1",
+   "title": "Peaceful settlement of the question of Palestine",
+   "issue": "me"
+  },
+  {
+   "id": "GOLAN",
+   "title": "The Syrian Golan",
+   "issue": "me"
+  },
+  {
+   "id": "JERUS",
+   "title": "Jerusalem",
+   "issue": "me"
+  },
+  {
+   "id": "PAL-2",
+   "title": "Committee on the Exercise of the Inalienable Rights of the Palestinian People",
+   "issue": "me"
+  },
+  {
+   "id": "PAL-3",
+   "title": "Division for Palestinian Rights of the Secretariat",
+   "issue": "me"
+  },
+  {
+   "id": "PAL-4",
+   "title": "Special information programme on the question of Palestine of the Department of Global Communications of the Secretariat",
+   "issue": "me"
+  },
+  {
+   "id": "UKR",
+   "title": "Situation in the temporarily occupied territories of Ukraine",
+   "issue": null
+  }
+ ],
+ "note": "Forecasts from resolution titles only; no committee votes or 2026 votes used. Argmax/expected tallies are over 192 current members (Venezuela excluded: no votes recorded in 2023-25). att_adj_* tallies weight each country by its 2023-25 attendance rate, to compare with official yes-no-abstain counts."
+}
